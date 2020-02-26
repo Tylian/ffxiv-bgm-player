@@ -2,6 +2,11 @@ const { promises: fs } = require('fs');
 const mm = require('music-metadata');
 const path = require('path');
 
+if(process.argv.length != 5) {
+  console.log("Usage: node bgm INPUT_DIRECTORY DATA_CSV OUTPUT_FILE");
+  process.exit();
+}
+
 const inputDirectory = path.resolve(process.argv[2]);
 const dataFile = path.resolve(process.argv[3])
 const outputFile = path.resolve(process.argv[4]);
