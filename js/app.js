@@ -50,8 +50,8 @@ fetch('bgm.json')
             <div class="song-wrapper">
               <i class="icon fa"></i>
               <div class="info">
-              <small>${path}</small><br />
-              #${index} <span class="muted">-</span> ${name} ${layerInfo}
+              #${index} <span class="muted">-</span> ${name} ${layerInfo}<br />
+              <small>${path}</small>
               </div>
             </div>
           </div>
