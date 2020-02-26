@@ -1,0 +1,14 @@
+{
+  "name": "bgm",
+  "version": "1.0.0",
+  "description": "Genetate a bgm.json from ogg files and a bgm.csv from SaintCoinach.Cmd",
+  "main": "bgm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tylian",
+  "license": "MIT",
+  "dependencies": {
+    "music-metadata": "^6.3.4"
+  }
+}

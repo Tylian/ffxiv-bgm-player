@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FFXIV WebPlayer</title>
+  <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+
+  <link rel="stylesheet" href="css/normalize.css" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+
+<body>
+  <div id="wrapper">
+    <div id="playlist"></div>
+    </div>
+  </div>
+  <div id="controls">
+    <div class="playstop">
+
+    </div>
+    <div class="volume">
+      <strong>Volume:</strong> <span id="volumeval">100</span>
+      <div class="center-children">
+        <i class="fa fa-volume-down"></i>
+        <input type="range" id="volume" value="100" min="0" max="100" step="0.1" />
+        <i class="fa fa-volume-up"></i>
+      </div>
+    </div>
+  <div id="loading" class="fa-3x">
+    <i class="fas fa-spinner fa-pulse"></i>
+  </div>
+  <script type="text/javascript" src="js/scroll.js"></script>
+  <script type="text/javascript" src="js/eventemitter.js"></script>
+  <script type="text/javascript" src="js/audio.js"></script>
+  <script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

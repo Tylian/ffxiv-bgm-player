@@ -1,0 +1,127 @@
+@keyframes loading {
+  from { background-color: rgba(0, 0, 0, 0.5);}
+  to {background-color: rgba(0, 0, 0, 0.8); }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Roboto;
+  margin-bottom: 60px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.center-children {
+  display: flex;
+  justify-content: center;
+}
+
+.muted {
+  opacity: 0.5;
+}
+
+#wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#playlist {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 8px -1px rgba(0, 0, 0, 0.25);
+  color: white;
+}
+
+.song {
+  flex: 0 1;
+  padding: 0 15px;
+  background-image: linear-gradient(90deg, #FF5572, #FF7555);
+  width: 100%;
+  cursor: pointer;
+}
+
+.song.playing {
+  background-image: linear-gradient(90deg, #3D66CC, #3DA1CC);
+}
+
+.song-wrapper {
+  display: flex;
+  padding: 10px 0;
+  text-align: left;
+  font-size: 16px;
+  line-height: 20px;
+  align-items: center;
+  border-bottom: 1px solid rgba(230, 211, 211, 0.31);
+}
+
+.song small {
+  font-size: 13px;
+}
+
+.song.playing {
+  font-weight: bold;
+}
+
+.song .icon {
+  margin-right: 10px;
+  background-color: #02020266;
+  font-size: 110%;
+  color: white;
+  text-align: center;
+  border-radius: 3px;
+  display: inline-box;
+  width: 2rem;
+  height: 2rem;
+  line-height: 2rem;
+}
+
+.song .icon::before {
+  content: "\f001";
+}
+
+.song.playing .icon::before {
+  content: "\f04b";
+}
+
+#controls {
+  position: fixed;
+  display: flex;
+  height: 60px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  box-shadow: 0 0 8px rgba(0,0,0,.4);
+  padding: 0.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.volume {
+  text-align: center;
+}
+
+#loading {
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  padding: 2rem;
+  transform: translate(-50%, -50%);
+  display: none;
+  animation: loading 1s infinite alternate;
+  color: white;
+  border-radius: 40px;
+  font-weight: bold;
+  text-align: center;
+}

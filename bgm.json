@@ -1,0 +1,5876 @@
+{"bgm":
+  [
+    {
+      "id": 2,
+      "file": "music/ffxiv/BGM_System_Title",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 338568,
+      "loopEnd": 1639571
+    },
+    {
+      "id": 3,
+      "file": "music/ffxiv/BGM_System_Launcher",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 159307,
+      "loopEnd": 3039776
+    },
+    {
+      "id": 4,
+      "file": "music/ffxiv/BGM_System_Chara",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 589877,
+      "loopEnd": 12810366
+    },
+    {
+      "id": 5,
+      "file": "music/ffxiv/BGM_Town_Rest_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 945022,
+      "loopEnd": 4725023
+    },
+    {
+      "id": 6,
+      "file": "music/ffxiv/BGM_Town_Gri_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1294040,
+      "loopEnd": 13725157
+    },
+    {
+      "id": 7,
+      "file": "music/ffxiv/BGM_Town_Gri_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 735932,
+      "loopEnd": 9075652
+    },
+    {
+      "id": 8,
+      "file": "music/ffxiv/BGM_Field_Gri_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 9,
+      "file": "music/ffxiv/BGM_Field_Gri_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 10,
+      "file": "music/ffxiv/BGM_Field_Gri_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 11,
+      "file": "music/ffxiv/BGM_Field_Gri_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 12,
+      "file": "music/ffxiv/BGM_Field_Gri_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 13,
+      "file": "music/ffxiv/BGM_Battle_Gri_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 256148,
+      "loopEnd": 3222363
+    },
+    {
+      "id": 14,
+      "file": "music/ffxiv/BGM_Leves",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1120976,
+      "loopEnd": 6723698
+    },
+    {
+      "id": 15,
+      "file": "music/ffxiv/BGM_Dungeon_Gri_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 16,
+      "file": "music/ffxiv/BGM_Battle_Dungeon_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 168560,
+      "loopEnd": 4872559
+    },
+    {
+      "id": 17,
+      "file": "music/ffxiv/BGM_Rade_01",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 352800,
+      "loopEnd": 4586399
+    },
+    {
+      "id": 18,
+      "file": "music/ffxiv/BGM_System_WinLoop",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 387328,
+      "loopEnd": 1742079
+    },
+    {
+      "id": 20,
+      "file": "music/ffxiv/BGM_System_WinShot_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 21,
+      "file": "music/ffxiv/BGM_System_WinShot_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 22,
+      "file": "music/ffxiv/BGM_System_WinShot_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 23,
+      "file": "music/ffxiv/BGM_System_WinShot_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 24,
+      "file": "music/ffxiv/BGM_Field_Gri_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 25,
+      "file": "music/ffxiv/BGM_Town_Lim_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 246016,
+      "loopEnd": 16281343
+    },
+    {
+      "id": 26,
+      "file": "music/ffxiv/BGM_Town_Lim_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 219392,
+      "loopEnd": 13987503
+    },
+    {
+      "id": 27,
+      "file": "music/ffxiv/BGM_Field_Lim_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 28,
+      "file": "music/ffxiv/BGM_Field_Lim_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 29,
+      "file": "music/ffxiv/BGM_Field_Lim_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 30,
+      "file": "music/ffxiv/BGM_Field_Lim_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 31,
+      "file": "music/ffxiv/BGM_Field_Lim_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 32,
+      "file": "music/ffxiv/BGM_Field_Lim_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 33,
+      "file": "music/ffxiv/BGM_Battle_Lim_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 351111,
+      "loopEnd": 3317326
+    },
+    {
+      "id": 35,
+      "file": "music/ffxiv/BGM_Dungeon_Lim_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 36,
+      "file": "music/ffxiv/BGM_Boss_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 95936,
+      "loopEnd": 5351423
+    },
+    {
+      "id": 37,
+      "file": "music/ffxiv/BGM_Boss_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150452,
+      "loopEnd": 3094588
+    },
+    {
+      "id": 38,
+      "file": "music/ffxiv/BGM_Boss_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2458928,
+      "loopEnd": 8360345
+    },
+    {
+      "id": 39,
+      "file": "music/ffxiv/BGM_Boss_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3674986,
+      "loopEnd": 9481499
+    },
+    {
+      "id": 40,
+      "file": "music/ffxiv/BGM_Behest",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 262322,
+      "loopEnd": 7518027
+    },
+    {
+      "id": 41,
+      "file": "music/ffxiv/BGM_Dungeon_Gri_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 42,
+      "file": "music/ffxiv/BGM_Dungeon_Gri_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 43,
+      "file": "music/ffxiv/BGM_Dungeon_Lim_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 44,
+      "file": "music/ffxiv/BGM_Town_Uru_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 214971,
+      "loopEnd": 13717801
+    },
+    {
+      "id": 45,
+      "file": "music/ffxiv/BGM_Town_Uru_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 132701,
+      "loopEnd": 13138512
+    },
+    {
+      "id": 46,
+      "file": "music/ffxiv/BGM_Field_Uru_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 47,
+      "file": "music/ffxiv/BGM_Field_Uru_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 48,
+      "file": "music/ffxiv/BGM_Field_Uru_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 49,
+      "file": "music/ffxiv/BGM_Field_Uru_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 50,
+      "file": "music/ffxiv/BGM_Field_Uru_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 51,
+      "file": "music/ffxiv/BGM_Field_Uru_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 52,
+      "file": "music/ffxiv/BGM_Battle_Uru_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 333205,
+      "loopEnd": 3299421
+    },
+    {
+      "id": 53,
+      "file": "music/ffxiv/BGM_Dungeon_Uru_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 54,
+      "file": "music/ffxiv/BGM_Dungeon_Uru_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 55,
+      "file": "music/ffxiv/BGM_Field_Safe1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 56,
+      "file": "music/ffxiv/BGM_Field_Safe2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 57,
+      "file": "music/ffxiv/BGM_Field_Danger1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 58,
+      "file": "music/ffxiv/BGM_Field_Danger2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 59,
+      "file": "music/ffxiv/BGM_Field_Danger3",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 60,
+      "file": "music/ffxiv/BGM_Field_Mor_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 61,
+      "file": "music/ffxiv/BGM_Ride_RChocobo",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1671126,
+      "loopEnd": 4456393
+    },
+    {
+      "id": 62,
+      "file": "music/ffxiv/BGM_Ride_Chocobo",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 224191,
+      "loopEnd": 5597605
+    },
+    {
+      "id": 63,
+      "file": "music/ffxiv/BGM_Company_Gri",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 962147,
+      "loopEnd": 8659994
+    },
+    {
+      "id": 64,
+      "file": "music/ffxiv/BGM_Company_Lim",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 443865,
+      "loopEnd": 8102567
+    },
+    {
+      "id": 65,
+      "file": "music/ffxiv/BGM_Company_Uru",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 563863,
+      "loopEnd": 8328371
+    },
+    {
+      "id": 66,
+      "file": "music/ffxiv/BGM_Field_Suna",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 205785,
+      "loopEnd": 4731451
+    },
+    {
+      "id": 67,
+      "file": "music/ffxiv/BGM_Leves_Easy",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 617680,
+      "loopEnd": 5909687
+    },
+    {
+      "id": 68,
+      "file": "music/ffxiv/BGM_Fate_Kyoten",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 352843,
+      "loopEnd": 5856524
+    },
+    {
+      "id": 69,
+      "file": "music/ffxiv/BGM_Fate_Bouei",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1390452,
+      "loopEnd": 8950451
+    },
+    {
+      "id": 70,
+      "file": "music/ffxiv/BGM_Event_StartGri",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 440956,
+      "loopEnd": 7055955
+    },
+    {
+      "id": 71,
+      "file": "music/ffxiv/BGM_Event_StartLim",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 747098,
+      "loopEnd": 7097497
+    },
+    {
+      "id": 72,
+      "file": "music/ffxiv/BGM_Event_StartLUru",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 12,
+      "loopEnd": 5145010
+    },
+    {
+      "id": 73,
+      "file": "music/ffxiv/BGM_Event_Kanue",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 62185,
+      "loopEnd": 4398515
+    },
+    {
+      "id": 74,
+      "file": "music/ffxiv/BGM_Event_Rauburn",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 189476,
+      "loopEnd": 3878010
+    },
+    {
+      "id": 75,
+      "file": "music/ffxiv/BGM_Event_Melvib",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 133707,
+      "loopEnd": 3013558
+    },
+    {
+      "id": 76,
+      "file": "music/ffxiv/BGM_Event_Teikoku",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1176544,
+      "loopEnd": 7057499
+    },
+    {
+      "id": 77,
+      "file": "music/ffxiv/BGM_Event_Protector",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 487734,
+      "loopEnd": 4280862
+    },
+    {
+      "id": 78,
+      "file": "music/ffxiv/BGM_Event_Huon",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 232385,
+      "loopEnd": 2518860
+    },
+    {
+      "id": 79,
+      "file": "music/ffxiv/BGM_Event_BanActivity",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 52508,
+      "loopEnd": 3471962
+    },
+    {
+      "id": 80,
+      "file": "music/ffxiv/BGM_Event_Mystery",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 561936,
+      "loopEnd": 4243335
+    },
+    {
+      "id": 81,
+      "file": "music/ffxiv/BGM_Event_Crystal",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1862354,
+      "loopEnd": 4120273
+    },
+    {
+      "id": 82,
+      "file": "music/ffxiv/BGM_Event_HeroReturn",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 337026,
+      "loopEnd": 3776833
+    },
+    {
+      "id": 83,
+      "file": "music/ffxiv/BGM_Event_BattleOverture",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 266103,
+      "loopEnd": 2685302
+    },
+    {
+      "id": 84,
+      "file": "music/ffxiv/BGM_Event_Sad",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 16699,
+      "loopEnd": 6367098
+    },
+    {
+      "id": 85,
+      "file": "music/ffxiv/BGM_Event_Keikaku",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 196464,
+      "loopEnd": 2010863
+    },
+    {
+      "id": 86,
+      "file": "music/ffxiv/BGM_Event_Buki",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 78315,
+      "loopEnd": 1590314
+    },
+    {
+      "id": 87,
+      "file": "music/ffxiv/BGM_Event_Tanoshii1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 783966,
+      "loopEnd": 4703970
+    },
+    {
+      "id": 88,
+      "file": "music/ffxiv/BGM_Event_Tanoshii2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 517456,
+      "loopEnd": 4009411
+    },
+    {
+      "id": 89,
+      "file": "music/ffxiv/BGM_Event_Tabidachi",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 423689,
+      "loopEnd": 6660072
+    },
+    {
+      "id": 90,
+      "file": "music/ffxiv/BGM_Event_JobEvent",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 441848,
+      "loopEnd": 3969847
+    },
+    {
+      "id": 91,
+      "file": "music/ffxiv/BGM_Event_JobShiren",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 789069,
+      "loopEnd": 4612995
+    },
+    {
+      "id": 92,
+      "file": "music/ffxiv/BGM_Event_Kako",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 893025,
+      "loopEnd": 3572099
+    },
+    {
+      "id": 93,
+      "file": "music/ffxiv/BGM_Event_Ansoku1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1360793,
+      "loopEnd": 6955186
+    },
+    {
+      "id": 94,
+      "file": "music/ffxiv/BGM_Event_Ascian",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 882000,
+      "loopEnd": 7937999
+    },
+    {
+      "id": 95,
+      "file": "music/ffxiv/BGM_Event_7thUmbralEra",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 96,
+      "file": "music/ffxiv/BGM_Event_VerySad",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1523435,
+      "loopEnd": 8678350
+    },
+    {
+      "id": 97,
+      "file": "music/ffxiv/BGM_Event_Truth",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 72080,
+      "loopEnd": 2861055
+    },
+    {
+      "id": 98,
+      "file": "music/ffxiv/BGM_Event_Ansoku2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 4894879
+    },
+    {
+      "id": 99,
+      "file": "music/ffxiv/BGM_Event_MemoryOfCid",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 159307,
+      "loopEnd": 3039776
+    },
+    {
+      "id": 100,
+      "file": "music/ffxiv/BGM_Event_Bazaar",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1531990,
+      "loopEnd": 4874284
+    },
+    {
+      "id": 101,
+      "file": "music/ffxiv/BGM_Event_Craft",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 887248,
+      "loopEnd": 5689252
+    },
+    {
+      "id": 102,
+      "file": "music/ffxiv/BGM_Event_Nego",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 463050,
+      "loopEnd": 6598462
+    },
+    {
+      "id": 103,
+      "file": "music/ffxiv/BGM_Event_Hildy",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 141236,
+      "loopEnd": 3404634
+    },
+    {
+      "id": 105,
+      "file": "music/ffxiv/BGM_Event_Saisyu",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 823334,
+      "loopEnd": 5997735
+    },
+    {
+      "id": 106,
+      "file": "music/ffxiv/BGM_Event_CrystalHarpOnly",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 177220,
+      "loopEnd": 2434759
+    },
+    {
+      "id": 107,
+      "file": "music/ffxiv/BGM_Event_BattleCommon_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3674986,
+      "loopEnd": 9481499
+    },
+    {
+      "id": 108,
+      "file": "music/ffxiv/BGM_Event_FF2BossBattle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 258105,
+      "loopEnd": 3739684
+    },
+    {
+      "id": 110,
+      "file": "music/ffxiv/BGM_Field_Lim_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 111,
+      "file": "music/ffxiv/BGM_Field_Lim_08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 112,
+      "file": "music/ffxiv/BGM_Event_DarknessLullaby",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 176453,
+      "loopEnd": 3351760
+    },
+    {
+      "id": 113,
+      "file": "music/ffxiv/BGM_Event_BattleCommon_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 239192,
+      "loopEnd": 7067703
+    },
+    {
+      "id": 114,
+      "file": "music/ffxiv/BGM_Event_Kincho",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 527254,
+      "loopEnd": 1938449
+    },
+    {
+      "id": 115,
+      "file": "music/ffxiv/BGM_Fate_Mid",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 135416,
+      "loopEnd": 4369707
+    },
+    {
+      "id": 116,
+      "file": "music/ffxiv/BGM_Battle_Dungeon_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 372828,
+      "loopEnd": 3292551
+    },
+    {
+      "id": 117,
+      "file": "music/ffxiv/BGM_Event_Treacherous",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 307312,
+      "loopEnd": 4295099
+    },
+    {
+      "id": 118,
+      "file": "music/ffxiv/BGM_Field_Bar",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 96536,
+      "loopEnd": 4041482
+    },
+    {
+      "id": 119,
+      "file": "music/ffxiv/BGM_Field_Lim_Beach",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 216884,
+      "loopEnd": 4065604
+    },
+    {
+      "id": 120,
+      "file": "music/ffxiv/BGM_Ban_Ifrit",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3902850,
+      "loopEnd": 8401049
+    },
+    {
+      "id": 121,
+      "file": "music/ffxiv/BGM_Ride_CommonMonster",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 524797,
+      "loopEnd": 8902561
+    },
+    {
+      "id": 122,
+      "file": "music/ffxiv/BGM_Dungeon_Gri_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 123,
+      "file": "music/ffxiv/BGM_Dungeon_Lim_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 124,
+      "file": "music/ffxiv/BGM_Dungeon_Uru_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 125,
+      "file": "music/ffxiv/BGM_Dungeon_Uru_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 126,
+      "file": "music/ffxiv/BGM_Dungeon_Ish_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 127,
+      "file": "music/ffxiv/BGM_Dungeon_Ish_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 128,
+      "file": "music/ffxiv/BGM_Dungeon_Ish_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 129,
+      "file": "music/ffxiv/BGM_Event_Enterprise",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 456034,
+      "loopEnd": 3555620
+    },
+    {
+      "id": 130,
+      "file": "music/ffxiv/BGM_Event_Fuan",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 22,
+      "loopEnd": 2334905
+    },
+    {
+      "id": 131,
+      "file": "music/ffxiv/BGM_Event_Blow",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 132,
+      "file": "music/ffxiv/BGM_System_EndCredit01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 26144208,
+      "loopEnd": 38364919
+    },
+    {
+      "id": 133,
+      "file": "music/ffxiv/BGM_System_EndCredit02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2057971,
+      "loopEnd": 9309995
+    },
+    {
+      "id": 134,
+      "file": "music/ffxiv/BGM_Field_BanFort_Sylph",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 518851,
+      "loopEnd": 4223250
+    },
+    {
+      "id": 135,
+      "file": "music/ffxiv/BGM_Field_BanFort_Ixal",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 496125,
+      "loopEnd": 5740849
+    },
+    {
+      "id": 136,
+      "file": "music/ffxiv/BGM_Field_BanFort_Kobold",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 355771,
+      "loopEnd": 8822966
+    },
+    {
+      "id": 137,
+      "file": "music/ffxiv/BGM_Field_BanFort_Sahagin",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 529200,
+      "loopEnd": 5556599
+    },
+    {
+      "id": 138,
+      "file": "music/ffxiv/BGM_Field_BanFort_Amaruja",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 201390,
+      "loopEnd": 3665243
+    },
+    {
+      "id": 141,
+      "file": "music/ffxiv/BGM_Field_Ish_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 142,
+      "file": "music/ffxiv/BGM_Field_Ish_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 143,
+      "file": "music/ffxiv/BGM_Field_Ish_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 144,
+      "file": "music/ffxiv/BGM_Battle_Ish_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 679205,
+      "loopEnd": 3589804
+    },
+    {
+      "id": 145,
+      "file": "music/ffxiv/BGM_Battle_Mor_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 178838,
+      "loopEnd": 3001240
+    },
+    {
+      "id": 146,
+      "file": "music/ffxiv/BGM_Con_Bahamut",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 151201,
+      "loopEnd": 7711199
+    },
+    {
+      "id": 147,
+      "file": "music/ffxiv/BGM_Con_Bahamut_Boss",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 73006,
+      "loopEnd": 8275024
+    },
+    {
+      "id": 148,
+      "file": "music/ffxiv/BGM_Con_Teikoku_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1187389,
+      "loopEnd": 10584508
+    },
+    {
+      "id": 149,
+      "file": "music/ffxiv/BGM_Con_Teikoku_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 161151,
+      "loopEnd": 19061149
+    },
+    {
+      "id": 150,
+      "file": "music/ffxiv/BGM_Con_Altima",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3580729,
+      "loopEnd": 10256350
+    },
+    {
+      "id": 151,
+      "file": "music/ffxiv/BGM_Con_Teikoku_Boss",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2015987,
+      "loopEnd": 6384003
+    },
+    {
+      "id": 152,
+      "file": "music/ffxiv/BGM_Con_Teikoku_Gaius",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 350595,
+      "loopEnd": 7618274
+    },
+    {
+      "id": 153,
+      "file": "music/ffxiv/BGM_Fate_Odin",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 76976,
+      "loopEnd": 11682081
+    },
+    {
+      "id": 154,
+      "file": "music/ffxiv/BGM_Fate_HMN",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 388381,
+      "loopEnd": 5221752
+    },
+    {
+      "id": 155,
+      "file": "music/ffxiv/BGM_Ban_Garuda",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1586944,
+      "loopEnd": 9751807
+    },
+    {
+      "id": 156,
+      "file": "music/ffxiv/BGM_Ban_Titan",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3387157,
+      "loopEnd": 13735967
+    },
+    {
+      "id": 157,
+      "file": "music/ffxiv/BGM_Ban_Titan_pre1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 230074,
+      "loopEnd": 2012636
+    },
+    {
+      "id": 158,
+      "file": "music/ffxiv/BGM_Ban_Titan_pre2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 100856,
+      "loopEnd": 3426295
+    },
+    {
+      "id": 159,
+      "file": "music/ffxiv/BGM_Ban_Titan_pre3",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 429120,
+      "loopEnd": 2057290
+    },
+    {
+      "id": 160,
+      "file": "music/ffxiv/BGM_Ban_Titan_pre4",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 83050,
+      "loopEnd": 2688340
+    },
+    {
+      "id": 161,
+      "file": "music/ffxiv/BGM_Event_Escape",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 166911,
+      "loopEnd": 1841163
+    },
+    {
+      "id": 162,
+      "file": "music/ffxiv/BGM_Event_PerfectAltima",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 423406,
+      "loopEnd": 2786309
+    },
+    {
+      "id": 163,
+      "file": "music/ffxiv/BGM_Fate_FFXIII01",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 142389,
+      "loopEnd": 3794827
+    },
+    {
+      "id": 164,
+      "file": "music/ffxiv/BGM_Fate_FFXIII02",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 232522,
+      "loopEnd": 7895150
+    },
+    {
+      "id": 165,
+      "file": "music/ffxiv/BGM_Con_Teikoku_01_Sido",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 95936,
+      "loopEnd": 5351423
+    },
+    {
+      "id": 166,
+      "file": "music/ffxiv/BGM_FATE_Bombard",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 300874,
+      "loopEnd": 3557586
+    },
+    {
+      "id": 167,
+      "file": "music/ffxiv/BGM_Field_Gri_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 168,
+      "file": "music/ffxiv/BGM_Field_Lim_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 169,
+      "file": "music/ffxiv/BGM_Field_Uru_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 170,
+      "file": "music/ffxiv/BGM_Field_Mor_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 171,
+      "file": "music/ffxiv/BGM_Fate_Bouei2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1390452,
+      "loopEnd": 8950451
+    },
+    {
+      "id": 172,
+      "file": "music/ffxiv/BGM_Ride_CoolMount",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 524797,
+      "loopEnd": 8902561
+    },
+    {
+      "id": 173,
+      "file": "music/ffxiv/BGM_Con_Ascian",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 388381,
+      "loopEnd": 5221752
+    },
+    {
+      "id": 174,
+      "file": "music/ffxiv/BGM_Season_Halloween",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 352800,
+      "loopEnd": 3704399
+    },
+    {
+      "id": 175,
+      "file": "music/ffxiv/BGM_Season_Christmas",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 293971,
+      "loopEnd": 7717499
+    },
+    {
+      "id": 176,
+      "file": "music/ffxiv/BGM_Season_NewYear",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2027277,
+      "loopEnd": 6346651
+    },
+    {
+      "id": 177,
+      "file": "music/ffxiv/BGM_Fate_FFXI01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 629826,
+      "loopEnd": 4480778
+    },
+    {
+      "id": 178,
+      "file": "music/ffxiv/BGM_Ban_Moogle_Nomal",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 470436,
+      "loopEnd": 7408838
+    },
+    {
+      "id": 179,
+      "file": "music/ffxiv/BGM_Ban_Moogle_King",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 103862,
+      "loopEnd": 7042261
+    },
+    {
+      "id": 180,
+      "file": "music/ffxiv/BGM_Con_CrystalTower_01",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 1311008,
+      "loopEnd": 6955807
+    },
+    {
+      "id": 181,
+      "file": "music/ffxiv/BGM_Con_CrystalTower_Boss_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 381979,
+      "loopEnd": 8720891
+    },
+    {
+      "id": 182,
+      "file": "music/ffxiv/BGM_Event_NextHildy",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 183,
+      "file": "music/ffxiv/BGM_Field_Mor_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 900223,
+      "loopEnd": 4287103
+    },
+    {
+      "id": 184,
+      "file": "music/ffxiv/BGM_Field_Mor_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 171344,
+      "loopEnd": 4235599
+    },
+    {
+      "id": 185,
+      "file": "music/ffxiv/BGM_Dungeon_Lim_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1315863,
+      "loopEnd": 14162649
+    },
+    {
+      "id": 186,
+      "file": "music/ffxiv/BGM_Field_Housing_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 370842,
+      "loopEnd": 4801350
+    },
+    {
+      "id": 187,
+      "file": "music/ffxiv/BGM_Field_Housing_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 791327,
+      "loopEnd": 10096424
+    },
+    {
+      "id": 188,
+      "file": "music/ffxiv/BGM_Field_BanColony_Sylph",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 79708,
+      "loopEnd": 2619867
+    },
+    {
+      "id": 189,
+      "file": "music/ffxiv/BGM_Field_BanColony_Amaruja",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 173731,
+      "loopEnd": 2949863
+    },
+    {
+      "id": 190,
+      "file": "music/ffxiv/BGM_Event_Marvellous",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 649213,
+      "loopEnd": 1903225
+    },
+    {
+      "id": 191,
+      "file": "music/ffxiv/BGM_Event_Barbar",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 297630,
+      "loopEnd": 4928173
+    },
+    {
+      "id": 192,
+      "file": "music/ffxiv/BGM_Fate_FF2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 258105,
+      "loopEnd": 3739684
+    },
+    {
+      "id": 193,
+      "file": "music/ffxiv/BGM_Ride_DEBUChocobo",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 212659,
+      "loopEnd": 4799058
+    },
+    {
+      "id": 194,
+      "file": "music/ffxiv/BGM_Field_BanColony_Kobold",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 132425,
+      "loopEnd": 2954824
+    },
+    {
+      "id": 195,
+      "file": "music/ffxiv/BGM_Field_BanColony_Sahagin",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 717757,
+      "loopEnd": 3946821
+    },
+    {
+      "id": 196,
+      "file": "music/ffxiv/BGM_Season_Easter",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 89692,
+      "loopEnd": 3758813
+    },
+    {
+      "id": 197,
+      "file": "music/ffxiv/BGM_Dungeon_Gri_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 349042,
+      "loopEnd": 5885288
+    },
+    {
+      "id": 198,
+      "file": "music/ffxiv/BGM_Con_Neal",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 6100485,
+      "loopEnd": 19918469
+    },
+    {
+      "id": 199,
+      "file": "music/ffxiv/BGM_Con_CarteneauBattle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 249306,
+      "loopEnd": 7516723
+    },
+    {
+      "id": 200,
+      "file": "music/ffxiv/BGM_Ban_Moogle_Goku",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 103862,
+      "loopEnd": 7042261
+    },
+    {
+      "id": 201,
+      "file": "music/ffxiv/BGM_Event_ClashOnTheBigBridge",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1644156,
+      "loopEnd": 6375755
+    },
+    {
+      "id": 202,
+      "file": "music/ffxiv/BGM_Con_Bahamut_v2",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 151201,
+      "loopEnd": 7711199
+    },
+    {
+      "id": 203,
+      "file": "music/ffxiv/BGM_Ban_Leviathan1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2564795,
+      "loopEnd": 5821408
+    },
+    {
+      "id": 204,
+      "file": "music/ffxiv/BGM_Ban_Leviathan2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 662779,
+      "loopEnd": 9923778
+    },
+    {
+      "id": 205,
+      "file": "music/ffxiv/BGM_Event_Neal",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 506620,
+      "loopEnd": 5294864
+    },
+    {
+      "id": 206,
+      "file": "music/ffxiv/BGM_Boss_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2023417,
+      "loopEnd": 3579114
+    },
+    {
+      "id": 207,
+      "file": "music/ffxiv/BGM_Dungeon_Gri_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1355760,
+      "loopEnd": 6118558
+    },
+    {
+      "id": 208,
+      "file": "music/ffxiv/BGM_Dungeon_Lim_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 4602035,
+      "loopEnd": 10723906
+    },
+    {
+      "id": 209,
+      "file": "music/ffxiv/BGM_Dungeon_Uru_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 4688638,
+      "loopEnd": 11702125
+    },
+    {
+      "id": 210,
+      "file": "music/ffxiv/BGM_Dungeon_Uru_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 140886,
+      "loopEnd": 2746174
+    },
+    {
+      "id": 211,
+      "file": "music/ffxiv/BGM_Event_Sad2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 699242,
+      "loopEnd": 4025641
+    },
+    {
+      "id": 212,
+      "file": "music/ffxiv/BGM_Event_UneDoga",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 246851,
+      "loopEnd": 2522847
+    },
+    {
+      "id": 214,
+      "file": "music/ffxiv/BGM_Season_SummerFes",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 432004,
+      "loopEnd": 4319991
+    },
+    {
+      "id": 215,
+      "file": "music/ffxiv/BGM_Field_BanColony_Ixal",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 559986,
+      "loopEnd": 2734781
+    },
+    {
+      "id": 216,
+      "file": "music/ffxiv/BGM_Dungeon_Lim_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 589265,
+      "loopEnd": 6615705
+    },
+    {
+      "id": 217,
+      "file": "music/ffxiv/BGM_Dungeon_Gri_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 686874,
+      "loopEnd": 6250114
+    },
+    {
+      "id": 218,
+      "file": "music/ffxiv/BGM_Con_CrystalTower_02",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 226800,
+      "loopEnd": 7106399
+    },
+    {
+      "id": 219,
+      "file": "music/ffxiv/BGM_PvP_Intro",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 388448,
+      "loopEnd": 5371747
+    },
+    {
+      "id": 220,
+      "file": "music/ffxiv/BGM_PvP_Battle",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 317520,
+      "loopEnd": 4551119
+    },
+    {
+      "id": 221,
+      "file": "music/ffxiv/BGM_Ban_Ramuh",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2549554,
+      "loopEnd": 14865445
+    },
+    {
+      "id": 222,
+      "file": "music/ffxiv/BGM_Minigame_Puzzle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1117234,
+      "loopEnd": 5409635
+    },
+    {
+      "id": 223,
+      "file": "music/ffxiv/BGM_Event_Gendaishi",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 148463,
+      "loopEnd": 5166063
+    },
+    {
+      "id": 224,
+      "file": "music/ffxiv/BGM_Event_ChocoboEducation",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 225,
+      "file": "music/ffxiv/BGM_Event_IshKyoko",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 226,
+      "file": "music/ffxiv/BGM_Season_Answers",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 888084,
+      "loopEnd": 4783984
+    },
+    {
+      "id": 227,
+      "file": "music/ffxiv/BGM_Ban_Odin",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 76976,
+      "loopEnd": 11682081
+    },
+    {
+      "id": 228,
+      "file": "music/ffxiv/BGM_Season_Wedding",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 587986,
+      "loopEnd": 6886920
+    },
+    {
+      "id": 229,
+      "file": "music/ffxiv/BGM_Field_Lim_Ninja",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 577684,
+      "loopEnd": 4546684
+    },
+    {
+      "id": 230,
+      "file": "music/ffxiv/BGM_Ban_Shiva1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 346306,
+      "loopEnd": 8964707
+    },
+    {
+      "id": 231,
+      "file": "music/ffxiv/BGM_Ban_Shiva2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 233526,
+      "loopEnd": 10530892
+    },
+    {
+      "id": 232,
+      "file": "music/ffxiv/BGM_Event_Orthros",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 849272,
+      "loopEnd": 3176323
+    },
+    {
+      "id": 233,
+      "file": "music/ffxiv/BGM_Dungeon_Ish_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 705600,
+      "loopEnd": 13582799
+    },
+    {
+      "id": 234,
+      "file": "music/ffxiv/BGM_Dungeon_Uru_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 86680,
+      "loopEnd": 8891067
+    },
+    {
+      "id": 235,
+      "file": "music/ffxiv/BGM_Dungeon_Lim_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 263075,
+      "loopEnd": 9306594
+    },
+    {
+      "id": 236,
+      "file": "music/ffxiv/BGM_Con_Bahamut_Bigboss1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1269688,
+      "loopEnd": 9472286
+    },
+    {
+      "id": 237,
+      "file": "music/ffxiv/BGM_Con_Bahamut_Bigboss2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 499408,
+      "loopEnd": 4563079
+    },
+    {
+      "id": 238,
+      "file": "music/ffxiv/BGM_Con_Bahamut_Bigboss3",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3039412,
+      "loopEnd": 9686520
+    },
+    {
+      "id": 239,
+      "file": "music/ffxiv/BGM_Event_Bahamut_4thNC",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 189888,
+      "loopEnd": 1929839
+    },
+    {
+      "id": 240,
+      "file": "music/ffxiv/BGM_Con_Bahamut_Bigboss0",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 2410828
+    },
+    {
+      "id": 241,
+      "file": "music/ffxiv/BGM_Event_UQ",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1129399,
+      "loopEnd": 4516278
+    },
+    {
+      "id": 242,
+      "file": "music/ffxiv/BGM_Event_Enkidu",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1261056,
+      "loopEnd": 5905151
+    },
+    {
+      "id": 243,
+      "file": "music/ffxiv/BGM_Dungeon_Mor_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 7914991
+    },
+    {
+      "id": 244,
+      "file": "music/ffxiv/BGM_Dungeon_Mor_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1873579,
+      "loopEnd": 10858955
+    },
+    {
+      "id": 245,
+      "file": "music/ffxiv/BGM_Dungeon_Lim_08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 171865,
+      "loopEnd": 7877016
+    },
+    {
+      "id": 246,
+      "file": "music/ffxiv/BGM_Dungeon_Gri_08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 733632,
+      "loopEnd": 8645408
+    },
+    {
+      "id": 247,
+      "file": "music/ffxiv/BGM_Con_CrystalTower_03",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 157401,
+      "loopEnd": 6743013
+    },
+    {
+      "id": 248,
+      "file": "music/ffxiv/BGM_Con_CrystalTower_Boss_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1087120,
+      "loopEnd": 9425975
+    },
+    {
+      "id": 249,
+      "file": "music/ffxiv/BGM_Con_CrystalTower_Boss_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1617548,
+      "loopEnd": 7019045
+    },
+    {
+      "id": 250,
+      "file": "music/ffxiv/BGM_GlodSaucer_Lobby",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1415885,
+      "loopEnd": 5981533
+    },
+    {
+      "id": 251,
+      "file": "music/ffxiv/BGM_GlodSaucer_GATE",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1110883,
+      "loopEnd": 5814885
+    },
+    {
+      "id": 252,
+      "file": "music/ffxiv/BGM_GlodSaucer_Race",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 171646,
+      "loopEnd": 3461270
+    },
+    {
+      "id": 253,
+      "file": "music/ffxiv/BGM_GlodSaucer_Triple",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 720134,
+      "loopEnd": 2836918
+    },
+    {
+      "id": 254,
+      "file": "music/ffxiv/BGM_Con_Ish_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 852184,
+      "loopEnd": 12847383
+    },
+    {
+      "id": 255,
+      "file": "music/ffxiv/BGM_Con_Ish_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 301612,
+      "loopEnd": 2947611
+    },
+    {
+      "id": 256,
+      "file": "music/ffxiv/BGM_Boss_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 352843,
+      "loopEnd": 5856524
+    },
+    {
+      "id": 257,
+      "file": "music/ffxiv/BGM_Boss_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1390452,
+      "loopEnd": 8950451
+    },
+    {
+      "id": 258,
+      "file": "music/ffxiv/BGM_ChocoboRace_Win1st",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 529200,
+      "loopEnd": 1234799
+    },
+    {
+      "id": 259,
+      "file": "music/ffxiv/BGM_ChocoboRace_Win2nd",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 342633,
+      "loopEnd": 969833
+    },
+    {
+      "id": 260,
+      "file": "music/ffxiv/BGM_ChocoboRace_Lose",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 407302,
+      "loopEnd": 1034503
+    },
+    {
+      "id": 261,
+      "file": "music/ffxiv/BGM_ChocoboRace_Fanfare",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 262,
+      "file": "music/ffxiv/BGM_Ride_MagitekArmor",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 516588,
+      "loopEnd": 4750187
+    },
+    {
+      "id": 263,
+      "file": "music/ffxiv/BGM_Ride_Odin",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 76976,
+      "loopEnd": 11682081
+    },
+    {
+      "id": 264,
+      "file": "music/ffxiv/BGM_Ride_Shiva",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 233526,
+      "loopEnd": 10530892
+    },
+    {
+      "id": 265,
+      "file": "music/ffxiv/BGM_Ride_Ramuh",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2549554,
+      "loopEnd": 14865445
+    },
+    {
+      "id": 266,
+      "file": "music/ffxiv/BGM_Ride_Leviathan",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 662779,
+      "loopEnd": 9923778
+    },
+    {
+      "id": 267,
+      "file": "music/ffxiv/BGM_Ride_Titan",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3387157,
+      "loopEnd": 13735967
+    },
+    {
+      "id": 268,
+      "file": "music/ffxiv/BGM_Ride_Gruda",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1586944,
+      "loopEnd": 9751807
+    },
+    {
+      "id": 269,
+      "file": "music/ffxiv/BGM_Ride_Ifrit",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3902850,
+      "loopEnd": 8401049
+    },
+    {
+      "id": 271,
+      "file": "music/ex1/BGM_EX1_System_Title",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 493104,
+      "loopEnd": 2275671
+    },
+    {
+      "id": 272,
+      "file": "music/ex1/BGM_EX1_EndCredit01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 39125122,
+      "loopEnd": 44735900
+    },
+    {
+      "id": 273,
+      "file": "music/ex1/BGM_EX1_Field_Safe1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 274,
+      "file": "music/ex1/BGM_EX1_Field_Safe2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 275,
+      "file": "music/ex1/BGM_EX1_Town_Ish01_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 189168,
+      "loopEnd": 11109228
+    },
+    {
+      "id": 276,
+      "file": "music/ex1/BGM_EX1_Town_Ish01_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 645833,
+      "loopEnd": 12589684
+    },
+    {
+      "id": 277,
+      "file": "music/ex1/BGM_EX1_Town_Ish02_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1120010,
+      "loopEnd": 14297089
+    },
+    {
+      "id": 278,
+      "file": "music/ex1/BGM_EX1_Town_Ish02_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 163984,
+      "loopEnd": 14388168
+    },
+    {
+      "id": 279,
+      "file": "music/ex1/BGM_EX1_Field_IshSebu02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 280,
+      "file": "music/ex1/BGM_EX1_Field_IshSebu03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 281,
+      "file": "music/ex1/BGM_EX1_Battle_IshSebu_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2026693,
+      "loopEnd": 5413572
+    },
+    {
+      "id": 282,
+      "file": "music/ex1/BGM_EX1_Field_DravaniaH02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 283,
+      "file": "music/ex1/BGM_EX1_Field_DravaniaH03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 284,
+      "file": "music/ex1/BGM_EX1_Battle_DravaniaH_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2026693,
+      "loopEnd": 5413572
+    },
+    {
+      "id": 285,
+      "file": "music/ex1/BGM_EX1_Field_DravaniaL02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 286,
+      "file": "music/ex1/BGM_EX1_Field_DravaniaL03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 287,
+      "file": "music/ex1/BGM_EX1_Battle_DravaniaL_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2026693,
+      "loopEnd": 5413572
+    },
+    {
+      "id": 288,
+      "file": "music/ex1/BGM_EX1_Field_DravaniaC02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 289,
+      "file": "music/ex1/BGM_EX1_Field_DravaniaC03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 290,
+      "file": "music/ex1/BGM_EX1_Battle_DravaniaC_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2026693,
+      "loopEnd": 5413572
+    },
+    {
+      "id": 291,
+      "file": "music/ex1/BGM_EX1_Field_Abaracia02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 292,
+      "file": "music/ex1/BGM_EX1_Field_Abaracia03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 293,
+      "file": "music/ex1/BGM_EX1_Battle_Abaracia_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2026693,
+      "loopEnd": 5413572
+    },
+    {
+      "id": 294,
+      "file": "music/ex1/BGM_EX1_Field_MagicC02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 966075,
+      "loopEnd": 10972763
+    },
+    {
+      "id": 295,
+      "file": "music/ex1/BGM_EX1_Battle_MagicC_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2026693,
+      "loopEnd": 5413572
+    },
+    {
+      "id": 296,
+      "file": "music/ex1/BGM_EX1_Rest_Sharean",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 205688,
+      "loopEnd": 4571586
+    },
+    {
+      "id": 297,
+      "file": "music/ex1/BGM_EX1_Rest_Sharean_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 512552,
+      "loopEnd": 3823451
+    },
+    {
+      "id": 298,
+      "file": "music/ex1/BGM_EX1_Rest_Matoya",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 286169,
+      "loopEnd": 3309934
+    },
+    {
+      "id": 299,
+      "file": "music/ex1/BGM_EX1_Dungeon_IshSebu_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 318776,
+      "loopEnd": 5865811
+    },
+    {
+      "id": 300,
+      "file": "music/ex1/BGM_EX1_Dungeon_Abaracia_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 823619,
+      "loopEnd": 6161633
+    },
+    {
+      "id": 301,
+      "file": "music/ex1/BGM_EX1_Dungeon_DravaniaH_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 84123,
+      "loopEnd": 5732315
+    },
+    {
+      "id": 302,
+      "file": "music/ex1/BGM_EX1_Dungeon_DravaniaC_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 85348,
+      "loopEnd": 5504927
+    },
+    {
+      "id": 303,
+      "file": "music/ex1/BGM_EX1_Dungeon_DravaniaL_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 76722,
+      "loopEnd": 6189518
+    },
+    {
+      "id": 304,
+      "file": "music/ex1/BGM_EX1_Dungeon_MagicC_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 146220,
+      "loopEnd": 4575814
+    },
+    {
+      "id": 305,
+      "file": "music/ex1/BGM_EX1_Dungeon_Kyoko",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 94550,
+      "loopEnd": 7144340
+    },
+    {
+      "id": 306,
+      "file": "music/ex1/BGM_EX1_Dungeon_Kyoko_2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 440955,
+      "loopEnd": 7503694
+    },
+    {
+      "id": 307,
+      "file": "music/ex1/BGM_EX1_Dungeon_Kyoko_3",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 440955,
+      "loopEnd": 7503694
+    },
+    {
+      "id": 308,
+      "file": "music/ex1/BGM_EX1_Dungeon_MagicC_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 656526,
+      "loopEnd": 4825980
+    },
+    {
+      "id": 309,
+      "file": "music/ex1/BGM_EX1_Boss_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 633926,
+      "loopEnd": 5432016
+    },
+    {
+      "id": 310,
+      "file": "music/ex1/BGM_EX1_Ban_Ravana_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 347496,
+      "loopEnd": 3125796
+    },
+    {
+      "id": 311,
+      "file": "music/ex1/BGM_EX1_Ban_Bismark_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2222221,
+      "loopEnd": 4750011
+    },
+    {
+      "id": 312,
+      "file": "music/ex1/BGM_EX1_Boss02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1431912,
+      "loopEnd": 5137722
+    },
+    {
+      "id": 313,
+      "file": "music/ex1/BGM_EX1_Event_DragonWar",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 881855,
+      "loopEnd": 4409855
+    },
+    {
+      "id": 314,
+      "file": "music/ex1/BGM_EX1_Event_Dragon",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 153634,
+      "loopEnd": 4689631
+    },
+    {
+      "id": 315,
+      "file": "music/ex1/BGM_EX1_Event_Soten",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 331632,
+      "loopEnd": 4085645
+    },
+    {
+      "id": 316,
+      "file": "music/ex1/BGM_EX1_Event_IshWar",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 135011,
+      "loopEnd": 5745660
+    },
+    {
+      "id": 317,
+      "file": "music/ex1/BGM_EX1_Event_Strategy",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 196173,
+      "loopEnd": 4429751
+    },
+    {
+      "id": 318,
+      "file": "music/ex1/BGM_EX1_Event_Start",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 319,
+      "file": "music/ffxiv/BGM_EX1_Ride_FlyingMount",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 69795,
+      "loopEnd": 6131192
+    },
+    {
+      "id": 320,
+      "file": "music/ex1/BGM_EX1_Event_IshDragonHead",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 108057,
+      "loopEnd": 2582238
+    },
+    {
+      "id": 321,
+      "file": "music/ex1/BGM_EX1_FATE01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 208524,
+      "loopEnd": 6884574
+    },
+    {
+      "id": 322,
+      "file": "music/ex1/BGM_EX1_Event_Moogle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 30311,
+      "loopEnd": 1088710
+    },
+    {
+      "id": 323,
+      "file": "music/ex1/BGM_EX1_Alex01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 163203,
+      "loopEnd": 3094147
+    },
+    {
+      "id": 324,
+      "file": "music/ex1/BGM_EX1_Alex02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 712104,
+      "loopEnd": 10825703
+    },
+    {
+      "id": 325,
+      "file": "music/ex1/BGM_EX1_Ban_Ravana_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1368483,
+      "loopEnd": 10289320
+    },
+    {
+      "id": 326,
+      "file": "music/ex1/BGM_EX1_Ban_Bismark_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 833703,
+      "loopEnd": 5195592
+    },
+    {
+      "id": 327,
+      "file": "music/ex1/BGM_EX1_Alex03",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 152957,
+      "loopEnd": 6805548
+    },
+    {
+      "id": 328,
+      "file": "music/ffxiv/BGM_Field_Workshop",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 617680,
+      "loopEnd": 5909687
+    },
+    {
+      "id": 329,
+      "file": "music/ex1/BGM_EX1_Dungeon_Kyoko_0",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 409531,
+      "loopEnd": 1705822
+    },
+    {
+      "id": 330,
+      "file": "music/ffxiv/BGM_Ride_Broom",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 352800,
+      "loopEnd": 3704399
+    },
+    {
+      "id": 331,
+      "file": "music/ffxiv/BGM_Ride_MagitekSpecial",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2015987,
+      "loopEnd": 6384003
+    },
+    {
+      "id": 332,
+      "file": "music/ffxiv/BGM_Event_FFXI01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 90360,
+      "loopEnd": 4736216
+    },
+    {
+      "id": 333,
+      "file": "music/ffxiv/BGM_Event_FFXI02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 75707,
+      "loopEnd": 2673057
+    },
+    {
+      "id": 334,
+      "file": "music/ffxiv/BGM_Event_FFXI03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 243733,
+      "loopEnd": 7571230
+    },
+    {
+      "id": 335,
+      "file": "music/ffxiv/BGM_Event_FFXI04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 71951,
+      "loopEnd": 10656101
+    },
+    {
+      "id": 336,
+      "file": "music/ffxiv/BGM_Event_FFXI05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 175000,
+      "loopEnd": 6718556
+    },
+    {
+      "id": 337,
+      "file": "music/ffxiv/BGM_Event_FFXI06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 115031,
+      "loopEnd": 7276232
+    },
+    {
+      "id": 338,
+      "file": "music/ex1/BGM_EX1_Event_Hildy",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 155512,
+      "loopEnd": 4077901
+    },
+    {
+      "id": 339,
+      "file": "music/ex1/BGM_EX1_BanFort_Banu_Bad",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 282398,
+      "loopEnd": 3457597
+    },
+    {
+      "id": 340,
+      "file": "music/ex1/BGM_EX1_BanFort_Banu_Good",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1743722,
+      "loopEnd": 6824079
+    },
+    {
+      "id": 341,
+      "file": "music/ex1/BGM_EX1_Boss03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 247482,
+      "loopEnd": 8568237
+    },
+    {
+      "id": 342,
+      "file": "music/ex1/BGM_EX1_Sorashima_Field",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 887744,
+      "loopEnd": 3987329
+    },
+    {
+      "id": 343,
+      "file": "music/ex1/BGM_EX1_Sorashima_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 434410,
+      "loopEnd": 3475466
+    },
+    {
+      "id": 344,
+      "file": "music/ex1/BGM_EX1_Sorashima_Boss",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 95936,
+      "loopEnd": 5351423
+    },
+    {
+      "id": 345,
+      "file": "music/ex1/BGM_EX1_Dungeon_botanical_gardens",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 509513,
+      "loopEnd": 7575035
+    },
+    {
+      "id": 346,
+      "file": "music/ex1/BGM_EX1_Dungeon_Sirius_Lighthouse",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1811447,
+      "loopEnd": 14658136
+    },
+    {
+      "id": 347,
+      "file": "music/ex1/BGM_EX1_Makosen_Nomal",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 376614,
+      "loopEnd": 5927756
+    },
+    {
+      "id": 348,
+      "file": "music/ex1/BGM_EX1_Makosen_Boss01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 159981,
+      "loopEnd": 5186403
+    },
+    {
+      "id": 349,
+      "file": "music/ffxiv/BGM_LoV_Nomal",
+      "frequency": 48000,
+      "layers": 1,
+      "loopStart": 195634,
+      "loopEnd": 4515825
+    },
+    {
+      "id": 350,
+      "file": "music/ffxiv/BGM_LoV_Boss01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 262322,
+      "loopEnd": 7518027
+    },
+    {
+      "id": 351,
+      "file": "music/ffxiv/BGM_LoV_Boss02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2458928,
+      "loopEnd": 8360345
+    },
+    {
+      "id": 352,
+      "file": "music/ffxiv/BGM_LoV_Boss03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 265056,
+      "loopEnd": 4498655
+    },
+    {
+      "id": 353,
+      "file": "music/ffxiv/BGM_LoV_Boss04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 733632,
+      "loopEnd": 8645408
+    },
+    {
+      "id": 354,
+      "file": "music/ffxiv/BGM_LoV_Boss05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 76976,
+      "loopEnd": 11682081
+    },
+    {
+      "id": 355,
+      "file": "music/ffxiv/BGM_LoV_Boss06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1644156,
+      "loopEnd": 6375755
+    },
+    {
+      "id": 356,
+      "file": "music/ffxiv/BGM_LoV_Boss07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 151201,
+      "loopEnd": 7711199
+    },
+    {
+      "id": 357,
+      "file": "music/ffxiv/BGM_LoV_Boss08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 73006,
+      "loopEnd": 8275024
+    },
+    {
+      "id": 358,
+      "file": "music/ffxiv/BGM_Ride_Kirin",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1862354,
+      "loopEnd": 4120273
+    },
+    {
+      "id": 359,
+      "file": "music/ffxiv/BGM_Season_VT",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 260717,
+      "loopEnd": 3067080
+    },
+    {
+      "id": 360,
+      "file": "music/ffxiv/BGM_Season_Hina",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 352799
+    },
+    {
+      "id": 361,
+      "file": "music/ex1/BGM_EX1_Dungeon_DravaniaL_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1261697,
+      "loopEnd": 5980831
+    },
+    {
+      "id": 362,
+      "file": "music/ex1/BGM_EX1_Dungeon_DravaniaL_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 185695,
+      "loopEnd": 2567094
+    },
+    {
+      "id": 363,
+      "file": "music/ex1/BGM_EX1_BanFort_Gunasu_Bad",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 192926,
+      "loopEnd": 2733085
+    },
+    {
+      "id": 364,
+      "file": "music/ex1/BGM_EX1_BanFort_Gunasu_Good",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 184487,
+      "loopEnd": 3129599
+    },
+    {
+      "id": 365,
+      "file": "music/ex1/BGM_EX1_Ban_Sephiroth01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 4444143,
+      "loopEnd": 9224014
+    },
+    {
+      "id": 366,
+      "file": "music/ex1/BGM_EX1_Ban_Sephiroth02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 624647,
+      "loopEnd": 10301444
+    },
+    {
+      "id": 367,
+      "file": "music/ffxiv/BGM_EX1_PvP01",
+      "frequency": 44100,
+      "layers": 2,
+      "loopStart": 530097,
+      "loopEnd": 7938896
+    },
+    {
+      "id": 368,
+      "file": "music/ex1/BGM_EX1_Dungeon_Komuda2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1197309,
+      "loopEnd": 6453379
+    },
+    {
+      "id": 369,
+      "file": "music/ex1/BGM_EX1_Alex04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 121273,
+      "loopEnd": 5935020
+    },
+    {
+      "id": 370,
+      "file": "music/ex1/BGM_EX1_Alex05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 352799
+    },
+    {
+      "id": 371,
+      "file": "music/ffxiv/BGM_Ride_Bismark",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 833703,
+      "loopEnd": 5195592
+    },
+    {
+      "id": 372,
+      "file": "music/ffxiv/BGM_Ride_Ravana",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1368483,
+      "loopEnd": 10289320
+    },
+    {
+      "id": 373,
+      "file": "music/ffxiv/BGM_Ride_KoR",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1431912,
+      "loopEnd": 5137722
+    },
+    {
+      "id": 374,
+      "file": "music/ffxiv/BGM_Ride_Sephiroth",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 4444143,
+      "loopEnd": 9224014
+    },
+    {
+      "id": 375,
+      "file": "music/ffxiv/BGM_Beginner01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1120976,
+      "loopEnd": 6723698
+    },
+    {
+      "id": 376,
+      "file": "music/ffxiv/BGM_Ride_Bennu",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1269688,
+      "loopEnd": 9472286
+    },
+    {
+      "id": 377,
+      "file": "music/ex1/BGM_EX1_Event_Nidhogg_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3250622,
+      "loopEnd": 9177661
+    },
+    {
+      "id": 378,
+      "file": "music/ex1/BGM_EX1_Event_Nidhogg_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3273031,
+      "loopEnd": 8883761
+    },
+    {
+      "id": 379,
+      "file": "music/ex1/BGM_EX1_Event_Nidhogg_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 380,
+      "file": "music/ffxiv/BGM_Season_SummerFes02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 450329,
+      "loopEnd": 2025327
+    },
+    {
+      "id": 381,
+      "file": "music/ex1/BGM_EX1_Field_SkyPirates",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 945957,
+      "loopEnd": 8001955
+    },
+    {
+      "id": 382,
+      "file": "music/ex1/BGM_EX1_Ban_Nidhogg_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1273292,
+      "loopEnd": 15909353
+    },
+    {
+      "id": 383,
+      "file": "music/ex1/BGM_EX1_Ban_Nidhogg_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 270104,
+      "loopEnd": 5297504
+    },
+    {
+      "id": 384,
+      "file": "music/ex1/BGM_EX1_Ban_Nidhogg_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1400244,
+      "loopEnd": 4726250
+    },
+    {
+      "id": 385,
+      "file": "music/ex1/BGM_EX1_Boss04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 341890,
+      "loopEnd": 9147777
+    },
+    {
+      "id": 386,
+      "file": "music/ex1/BGM_EX1_Dungeon_DravaniaC_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1284577,
+      "loopEnd": 5885930
+    },
+    {
+      "id": 387,
+      "file": "music/ex1/BGM_EX1_Dungeon_Hullbreaker_Hard",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 529200,
+      "loopEnd": 5821199
+    },
+    {
+      "id": 388,
+      "file": "music/ffxiv/BGM_Dungeon_Treasure",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 105268,
+      "loopEnd": 3656469
+    },
+    {
+      "id": 389,
+      "file": "music/ffxiv/BGM_Dungeon_Deep01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 334190,
+      "loopEnd": 5681932
+    },
+    {
+      "id": 390,
+      "file": "music/ffxiv/BGM_Dungeon_Deep02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 529200,
+      "loopEnd": 5424299
+    },
+    {
+      "id": 391,
+      "file": "music/ffxiv/BGM_Dungeon_Deep03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2480625,
+      "loopEnd": 10815524
+    },
+    {
+      "id": 392,
+      "file": "music/ffxiv/BGM_Dungeon_DeepBoss01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 135470,
+      "loopEnd": 5493664
+    },
+    {
+      "id": 393,
+      "file": "music/ex1/BGM_EX1_Makosen_Nomal02",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 621579,
+      "loopEnd": 5913577
+    },
+    {
+      "id": 394,
+      "file": "music/ex1/BGM_EX1_Makosen_Boss02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 137481,
+      "loopEnd": 1548680
+    },
+    {
+      "id": 395,
+      "file": "music/ffxiv/BGM_Ride_Nidhogg",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 391536,
+      "loopEnd": 5418935
+    },
+    {
+      "id": 396,
+      "file": "music/ffxiv/BGM_Ride_Mogle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 103862,
+      "loopEnd": 7042261
+    },
+    {
+      "id": 397,
+      "file": "music/ffxiv/BGM_Ride_Alex",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 712104,
+      "loopEnd": 10825703
+    },
+    {
+      "id": 398,
+      "file": "music/ex1/BGM_EX1_Event_Fortemps",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 399,
+      "file": "music/ffxiv/BGM_Dungeon_Deep00",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 155512,
+      "loopEnd": 4077901
+    },
+    {
+      "id": 400,
+      "file": "music/ffxiv/BGM_Event_Odayaka",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150372,
+      "loopEnd": 5850973
+    },
+    {
+      "id": 401,
+      "file": "music/ex1/BGM_EX1_Event_Nivas",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 382281,
+      "loopEnd": 5168089
+    },
+    {
+      "id": 402,
+      "file": "music/ex1/BGM_EX1_Ban_Sophia",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 904249,
+      "loopEnd": 8489448
+    },
+    {
+      "id": 403,
+      "file": "music/ffxiv/BGM_PvP_Duel",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 378379,
+      "loopEnd": 6065305
+    },
+    {
+      "id": 404,
+      "file": "music/ffxiv/BGM_Ban_Altema",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 208524,
+      "loopEnd": 6884574
+    },
+    {
+      "id": 405,
+      "file": "music/ex1/BGM_EX1_Dungeon_Xelphatol",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 515318,
+      "loopEnd": 6280811
+    },
+    {
+      "id": 406,
+      "file": "music/ex1/BGM_EX1_Boss05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 305000,
+      "loopEnd": 6193280
+    },
+    {
+      "id": 407,
+      "file": "music/ex1/BGM_EX1_Dungeon_DravaniaL_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 325684,
+      "loopEnd": 5491308
+    },
+    {
+      "id": 408,
+      "file": "music/ffxiv/BGM_Season_HalloweenD",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 177106,
+      "loopEnd": 2646705
+    },
+    {
+      "id": 409,
+      "file": "music/ex1/BGM_EX1_Deep01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1143545,
+      "loopEnd": 9567576
+    },
+    {
+      "id": 410,
+      "file": "music/ex1/BGM_EX1_Deep02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1595467,
+      "loopEnd": 5405706
+    },
+    {
+      "id": 411,
+      "file": "music/ex1/BGM_EX1_Alex06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 171332,
+      "loopEnd": 7542332
+    },
+    {
+      "id": 412,
+      "file": "music/ex1/BGM_EX1_Alex07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 857789,
+      "loopEnd": 5091388
+    },
+    {
+      "id": 413,
+      "file": "music/ex1/BGM_EX1_Alex08",
+      "frequency": 44100,
+      "layers": 2,
+      "loopStart": 396998,
+      "loopEnd": 5386600
+    },
+    {
+      "id": 414,
+      "file": "music/ex1/BGM_EX1_Alex09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 177520,
+      "loopEnd": 7548519
+    },
+    {
+      "id": 415,
+      "file": "music/ffxiv/BGM_Ride_Sophia",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 904249,
+      "loopEnd": 8489448
+    },
+    {
+      "id": 416,
+      "file": "music/ffxiv/BGM_Ride_Alex2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 857789,
+      "loopEnd": 5091388
+    },
+    {
+      "id": 417,
+      "file": "music/ex1/BGM_EX1_Ban_Demon_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 510655,
+      "loopEnd": 4014323
+    },
+    {
+      "id": 418,
+      "file": "music/ex1/BGM_EX1_Event_vs",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 352799
+    },
+    {
+      "id": 419,
+      "file": "music/ex1/BGM_EX1_Ban_Demon",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 170905,
+      "loopEnd": 4686745
+    },
+    {
+      "id": 420,
+      "file": "music/ex1/BGM_EX1_Dungeon_Gri_09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 796107,
+      "loopEnd": 5549908
+    },
+    {
+      "id": 421,
+      "file": "music/ex1/BGM_EX1_Dungeon_DravaniaH_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2236259,
+      "loopEnd": 7575048
+    },
+    {
+      "id": 422,
+      "file": "music/ex1/BGM_EX1_Makosen_Field01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 350055,
+      "loopEnd": 5591659
+    },
+    {
+      "id": 423,
+      "file": "music/ex1/BGM_EX1_Makosen_Field02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 179165,
+      "loopEnd": 6621596
+    },
+    {
+      "id": 424,
+      "file": "music/ffxiv/BGM_Ride_Demon",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 510655,
+      "loopEnd": 4014323
+    },
+    {
+      "id": 425,
+      "file": "music/ffxiv/BGM_Ride_Bcomp",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 589877,
+      "loopEnd": 12810366
+    },
+    {
+      "id": 426,
+      "file": "music/ex1/BGM_EX1_Event_Answers",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 888084,
+      "loopEnd": 4783984
+    },
+    {
+      "id": 428,
+      "file": "music/ex2/BGM_EX2_System_Title",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1065385,
+      "loopEnd": 2742057
+    },
+    {
+      "id": 429,
+      "file": "music/ex2/BGM_EX2_EndCredit01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 31214531,
+      "loopEnd": 37899232
+    },
+    {
+      "id": 430,
+      "file": "music/ex2/BGM_EX2_Field_Safe_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 431,
+      "file": "music/ex2/BGM_EX2_Field_Safe_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 432,
+      "file": "music/ex2/BGM_EX2_Field_Safe_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 433,
+      "file": "music/ex2/BGM_EX2_Town_R_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 671997,
+      "loopEnd": 6353933
+    },
+    {
+      "id": 434,
+      "file": "music/ex2/BGM_EX2_Town_R_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 679138,
+      "loopEnd": 6524032
+    },
+    {
+      "id": 435,
+      "file": "music/ex2/BGM_EX2_Field_G_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150972,
+      "loopEnd": 3735869
+    },
+    {
+      "id": 436,
+      "file": "music/ex2/BGM_EX2_Town_K_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 688897,
+      "loopEnd": 13220353
+    },
+    {
+      "id": 437,
+      "file": "music/ex2/BGM_EX2_Town_K_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 402655,
+      "loopEnd": 6193899
+    },
+    {
+      "id": 438,
+      "file": "music/ex2/BGM_EX2_Field_Kohgyoku_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150972,
+      "loopEnd": 3735869
+    },
+    {
+      "id": 439,
+      "file": "music/ex2/BGM_EX2_Field_G_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 440,
+      "file": "music/ex2/BGM_EX2_Field_G_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 441,
+      "file": "music/ex2/BGM_EX2_Field_G_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150972,
+      "loopEnd": 3735869
+    },
+    {
+      "id": 442,
+      "file": "music/ex2/BGM_EX2_Field_G_mountain_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 443,
+      "file": "music/ex2/BGM_EX2_Field_G_mountain_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 444,
+      "file": "music/ex2/BGM_EX2_Field_G_mountain_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150972,
+      "loopEnd": 3735869
+    },
+    {
+      "id": 445,
+      "file": "music/ex2/BGM_EX2_Field_G_Lake_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 653136,
+      "loopEnd": 12437081
+    },
+    {
+      "id": 446,
+      "file": "music/ex2/BGM_EX2_Field_G_Lake_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1921836,
+      "loopEnd": 10886884
+    },
+    {
+      "id": 447,
+      "file": "music/ex2/BGM_EX2_Field_G_Lake_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150972,
+      "loopEnd": 3735869
+    },
+    {
+      "id": 448,
+      "file": "music/ex2/BGM_EX2_Field_Kohgyoku_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 449,
+      "file": "music/ex2/BGM_EX2_Field_Kohgyoku_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 450,
+      "file": "music/ex2/BGM_EX2_Field_Kohgyoku_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150972,
+      "loopEnd": 3735869
+    },
+    {
+      "id": 451,
+      "file": "music/ex2/BGM_EX2_Field_Yansa_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 452,
+      "file": "music/ex2/BGM_EX2_Field_Yansa_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 453,
+      "file": "music/ex2/BGM_EX2_Field_Yansa_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150972,
+      "loopEnd": 3735869
+    },
+    {
+      "id": 454,
+      "file": "music/ex2/BGM_EX2_Field_A_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 455,
+      "file": "music/ex2/BGM_EX2_Field_A_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 456,
+      "file": "music/ex2/BGM_EX2_Field_A_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150972,
+      "loopEnd": 3735869
+    },
+    {
+      "id": 457,
+      "file": "music/ex2/BGM_EX2_Event_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 421920,
+      "loopEnd": 2751406
+    },
+    {
+      "id": 458,
+      "file": "music/ex2/BGM_EX2_Event_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 496403,
+      "loopEnd": 1528987
+    },
+    {
+      "id": 459,
+      "file": "music/ex2/BGM_EX2_Event_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 43221,
+      "loopEnd": 6727922
+    },
+    {
+      "id": 460,
+      "file": "music/ex2/BGM_EX2_Event_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 461,
+      "file": "music/ex2/BGM_EX2_Event_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 218246,
+      "loopEnd": 5240754
+    },
+    {
+      "id": 462,
+      "file": "music/ex2/BGM_EX2_Event_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 352799
+    },
+    {
+      "id": 463,
+      "file": "music/ex2/BGM_EX2_Event_09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 113642,
+      "loopEnd": 2568280
+    },
+    {
+      "id": 464,
+      "file": "music/ex2/BGM_EX2_Event_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 323451,
+      "loopEnd": 11613050
+    },
+    {
+      "id": 465,
+      "file": "music/ex2/BGM_EX2_Event_08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 134438,
+      "loopEnd": 2956837
+    },
+    {
+      "id": 466,
+      "file": "music/ex2/BGM_EX2_Ban_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 449648,
+      "loopEnd": 4065784
+    },
+    {
+      "id": 467,
+      "file": "music/ex2/BGM_EX2_Ban_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 146138,
+      "loopEnd": 6962951
+    },
+    {
+      "id": 468,
+      "file": "music/ex2/BGM_EX2_Ban_03_1",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 4248926,
+      "loopEnd": 9959685
+    },
+    {
+      "id": 469,
+      "file": "music/ex2/BGM_EX2_Ban_03_2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 965863,
+      "loopEnd": 7034022
+    },
+    {
+      "id": 470,
+      "file": "music/ex2/BGM_EX2_Boss_Battle_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 631818,
+      "loopEnd": 4336841
+    },
+    {
+      "id": 471,
+      "file": "music/ex2/BGM_EX2_Dan_D01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 545370,
+      "loopEnd": 4584007
+    },
+    {
+      "id": 472,
+      "file": "music/ex2/BGM_EX2_Dan_D02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 444308,
+      "loopEnd": 5148311
+    },
+    {
+      "id": 473,
+      "file": "music/ex2/BGM_EX2_Dan_D03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 321270,
+      "loopEnd": 4202069
+    },
+    {
+      "id": 474,
+      "file": "music/ex2/BGM_EX2_Dan_D04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 800727,
+      "loopEnd": 6708072
+    },
+    {
+      "id": 475,
+      "file": "music/ex2/BGM_EX2_Dan_D05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1946876,
+      "loopEnd": 5122089
+    },
+    {
+      "id": 476,
+      "file": "music/ex2/BGM_EX2_Dan_D06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 101430,
+      "loopEnd": 3805829
+    },
+    {
+      "id": 477,
+      "file": "music/ex2/BGM_EX2_Dan_D07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 353353,
+      "loopEnd": 5624013
+    },
+    {
+      "id": 478,
+      "file": "music/ex2/BGM_EX2_Dan_D08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1032725,
+      "loopEnd": 5653905
+    },
+    {
+      "id": 479,
+      "file": "music/ex2/BGM_EX2_Omega_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1523369,
+      "loopEnd": 5659596
+    },
+    {
+      "id": 480,
+      "file": "music/ex2/BGM_EX2_Omega_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 562159,
+      "loopEnd": 6476743
+    },
+    {
+      "id": 481,
+      "file": "music/ex2/BGM_EX2_Omega_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1000266,
+      "loopEnd": 7664280
+    },
+    {
+      "id": 482,
+      "file": "music/ex2/BGM_EX2_Omega_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1145775,
+      "loopEnd": 5533442
+    },
+    {
+      "id": 483,
+      "file": "music/ex2/BGM_EX2_Mount01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 133589,
+      "loopEnd": 3459966
+    },
+    {
+      "id": 484,
+      "file": "music/ex2/BGM_EX2_Event_10",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 133589,
+      "loopEnd": 3459966
+    },
+    {
+      "id": 485,
+      "file": "music/ex2/BGM_EX2_Event_11",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 330339,
+      "loopEnd": 3421632
+    },
+    {
+      "id": 486,
+      "file": "music/ex2/BGM_EX2_Event_PRELUDE",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 145194,
+      "loopEnd": 1821865
+    },
+    {
+      "id": 487,
+      "file": "music/ex2/BGM_EX2_Event_END",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 488,
+      "file": "music/ex2/BGM_EX2_BanFort_Koujin_Bad",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1409130,
+      "loopEnd": 3949281
+    },
+    {
+      "id": 489,
+      "file": "music/ex2/BGM_EX2_Event_12",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 312461,
+      "loopEnd": 3311260
+    },
+    {
+      "id": 490,
+      "file": "music/ex2/BGM_EX2_Boss_Battle_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 506620,
+      "loopEnd": 5294864
+    },
+    {
+      "id": 491,
+      "file": "music/ex2/BGM_EX2_Ban_01_2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 367615,
+      "loopEnd": 2061054
+    },
+    {
+      "id": 492,
+      "file": "music/ex2/BGM_EX2_Ban_01_3",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 419628,
+      "loopEnd": 6481636
+    },
+    {
+      "id": 493,
+      "file": "music/ffxiv/BGM_Ride_Susano",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1190460,
+      "loopEnd": 7252465
+    },
+    {
+      "id": 494,
+      "file": "music/ffxiv/BGM_Ride_Lakshmi",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 146138,
+      "loopEnd": 6962951
+    },
+    {
+      "id": 495,
+      "file": "music/ex2/BGM_EX2_Town_R_Sad",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1425480,
+      "loopEnd": 6655308
+    },
+    {
+      "id": 496,
+      "file": "music/ffxiv/BGM_Season_Anniversary",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 92598,
+      "loopEnd": 5913525
+    },
+    {
+      "id": 497,
+      "file": "music/ex2/BGM_EX2_Event_13",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 200279,
+      "loopEnd": 905878
+    },
+    {
+      "id": 498,
+      "file": "music/ex2/BGM_EX2_BanFort_Kojin_Good",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 321364,
+      "loopEnd": 4607883
+    },
+    {
+      "id": 499,
+      "file": "music/ex2/BGM_EX2_Ban_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 933715,
+      "loopEnd": 3512247
+    },
+    {
+      "id": 500,
+      "file": "music/ffxiv/BGM_PvP_Mogi_01",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 476475,
+      "loopEnd": 6634440
+    },
+    {
+      "id": 501,
+      "file": "music/ffxiv/BGM_PvP_Mogi_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 712104,
+      "loopEnd": 10825703
+    },
+    {
+      "id": 502,
+      "file": "music/ffxiv/BGM_PvP_Mogi_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 171332,
+      "loopEnd": 7542332
+    },
+    {
+      "id": 503,
+      "file": "music/ffxiv/BGM_PvP_Mogi_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 121273,
+      "loopEnd": 5935020
+    },
+    {
+      "id": 504,
+      "file": "music/ex2/BGM_EX2_Dan_D09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 14821,
+      "loopEnd": 5424424
+    },
+    {
+      "id": 505,
+      "file": "music/ffxiv/BGM_Ride_Shinryu",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 965863,
+      "loopEnd": 7034022
+    },
+    {
+      "id": 506,
+      "file": "music/ex2/BGM_EX2_Rti_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 248065,
+      "loopEnd": 3340009
+    },
+    {
+      "id": 507,
+      "file": "music/ex2/BGM_EX2_Rti_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 682916,
+      "loopEnd": 5033944
+    },
+    {
+      "id": 508,
+      "file": "music/ex2/BGM_EX2_Rti_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 99912,
+      "loopEnd": 5564446
+    },
+    {
+      "id": 509,
+      "file": "music/ex2/BGM_EX2_Rti_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 424998,
+      "loopEnd": 723539
+    },
+    {
+      "id": 510,
+      "file": "music/ex2/BGM_EX2_Rti_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 80804,
+      "loopEnd": 1957408
+    },
+    {
+      "id": 511,
+      "file": "music/ex2/BGM_EX2_Rti_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1013776,
+      "loopEnd": 4885959
+    },
+    {
+      "id": 512,
+      "file": "music/ex2/BGM_EX2_Rti_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 393761,
+      "loopEnd": 1663831
+    },
+    {
+      "id": 513,
+      "file": "music/ex2/BGM_EX2_Rti_08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 130678,
+      "loopEnd": 5721618
+    },
+    {
+      "id": 514,
+      "file": "music/ex2/BGM_EX2_Rti_09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 723156,
+      "loopEnd": 4527728
+    },
+    {
+      "id": 515,
+      "file": "music/ex2/BGM_EX2_Rti_10",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 94765,
+      "loopEnd": 2040511
+    },
+    {
+      "id": 516,
+      "file": "music/ffxiv/BGM_Season_Xmas2017",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 605334,
+      "loopEnd": 5309333
+    },
+    {
+      "id": 517,
+      "file": "music/ex2/BGM_EX2_Ban_04pre",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 518,
+      "file": "music/ex2/BGM_EX2_BanFort_Ananta_Good",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 607738,
+      "loopEnd": 4841337
+    },
+    {
+      "id": 519,
+      "file": "music/ex2/BGM_EX2_Field_Iroha",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 346080,
+      "loopEnd": 5991126
+    },
+    {
+      "id": 520,
+      "file": "music/ffxiv/BGM_Season_Princess",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 356476,
+      "loopEnd": 5295210
+    },
+    {
+      "id": 521,
+      "file": "music/ex2/BGM_EX2_Ban_11",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 277978,
+      "loopEnd": 3453202
+    },
+    {
+      "id": 522,
+      "file": "music/ex2/BGM_EX2_Ban_12",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 178676,
+      "loopEnd": 3001081
+    },
+    {
+      "id": 523,
+      "file": "music/ex2/BGM_EX2_Ban_13",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 444655,
+      "loopEnd": 6755855
+    },
+    {
+      "id": 524,
+      "file": "music/ex2/BGM_EX2_EU_Field",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 781624,
+      "loopEnd": 5418425
+    },
+    {
+      "id": 525,
+      "file": "music/ex2/BGM_EX2_EU_NM",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 148526,
+      "loopEnd": 4396427
+    },
+    {
+      "id": 526,
+      "file": "music/ex2/BGM_EX2_Dan_D10",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 357724,
+      "loopEnd": 5296914
+    },
+    {
+      "id": 527,
+      "file": "music/ex2/BGM_EX2_Dan_D11",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 337524,
+      "loopEnd": 8675950
+    },
+    {
+      "id": 528,
+      "file": "music/ex2/BGM_EX2_Sigma_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 529,
+      "file": "music/ex2/BGM_EX2_Sigma_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 872419,
+      "loopEnd": 5528729
+    },
+    {
+      "id": 530,
+      "file": "music/ex2/BGM_EX2_Sigma_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1389610,
+      "loopEnd": 6191045
+    },
+    {
+      "id": 531,
+      "file": "music/ex2/BGM_EX2_Sigma_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2398376,
+      "loopEnd": 5695247
+    },
+    {
+      "id": 532,
+      "file": "music/ex2/BGM_EX2_Sigma_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 375967,
+      "loopEnd": 4769899
+    },
+    {
+      "id": 533,
+      "file": "music/ex2/BGM_EX2_Sigma_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1891285,
+      "loopEnd": 8631083
+    },
+    {
+      "id": 534,
+      "file": "music/ffxiv/BGM_Ride_Omega",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1145775,
+      "loopEnd": 5533442
+    },
+    {
+      "id": 535,
+      "file": "music/ffxiv/BGM_Ride_Sigma",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1891285,
+      "loopEnd": 8631083
+    },
+    {
+      "id": 536,
+      "file": "music/ffxiv/BGM_Ride_Byakko",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 309170,
+      "loopEnd": 6620368
+    },
+    {
+      "id": 537,
+      "file": "music/ffxiv/BGM_Field_Safe2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 538,
+      "file": "music/ffxiv/BGM_Minigame_Egghunt",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 486037,
+      "loopEnd": 2905297
+    },
+    {
+      "id": 539,
+      "file": "music/ffxiv/BGM_Season_VTID",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 945957,
+      "loopEnd": 8001955
+    },
+    {
+      "id": 540,
+      "file": "music/ex2/BGM_EX2_BanFort_Namazuo_Good",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 468144,
+      "loopEnd": 2937421
+    },
+    {
+      "id": 541,
+      "file": "music/ex2/BGM_EX2_Ban_16",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 712541,
+      "loopEnd": 5562593
+    },
+    {
+      "id": 542,
+      "file": "music/ex2/BGM_EX2_Ban_17",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 962844,
+      "loopEnd": 3471642
+    },
+    {
+      "id": 543,
+      "file": "music/ex2/BGM_EX2_Ban_18",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 667457,
+      "loopEnd": 6939525
+    },
+    {
+      "id": 544,
+      "file": "music/ex2/BGM_EX2_Ban_19",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1607011,
+      "loopEnd": 9771446
+    },
+    {
+      "id": 545,
+      "file": "music/ex2/BGM_EX2_Ban_20",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 190320,
+      "loopEnd": 7615138
+    },
+    {
+      "id": 546,
+      "file": "music/ex2/BGM_EX2_Ban_21",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 9071027,
+      "loopEnd": 13147871
+    },
+    {
+      "id": 547,
+      "file": "music/ex2/BGM_EX2_Ban_23",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 4744392,
+      "loopEnd": 11420184
+    },
+    {
+      "id": 548,
+      "file": "music/ex2/BGM_EX2_Ban_14",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 539288,
+      "loopEnd": 4967647
+    },
+    {
+      "id": 549,
+      "file": "music/ex2/BGM_EX2_Ban_15",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2621561,
+      "loopEnd": 6451950
+    },
+    {
+      "id": 550,
+      "file": "music/ex2/BGM_EX2_Event_14",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 648439,
+      "loopEnd": 2292374
+    },
+    {
+      "id": 551,
+      "file": "music/ex2/BGM_EX2_Dan_D12",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 328071,
+      "loopEnd": 4939669
+    },
+    {
+      "id": 552,
+      "file": "music/ffxiv/BGM_Ride_TK",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 667457,
+      "loopEnd": 6939525
+    },
+    {
+      "id": 553,
+      "file": "music/ex2/BGM_EX2_Rti_11",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 172608,
+      "loopEnd": 1709847
+    },
+    {
+      "id": 554,
+      "file": "music/ex2/BGM_EX2_Rti_12",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 160830,
+      "loopEnd": 3187361
+    },
+    {
+      "id": 555,
+      "file": "music/ex2/BGM_EX2_Rti_13",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 44922,
+      "loopEnd": 4363295
+    },
+    {
+      "id": 556,
+      "file": "music/ex2/BGM_EX2_Rti_14",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 336110,
+      "loopEnd": 3781960
+    },
+    {
+      "id": 557,
+      "file": "music/ex2/BGM_EX2_Rti_15",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 87906,
+      "loopEnd": 8555928
+    },
+    {
+      "id": 558,
+      "file": "music/ex2/BGM_EX2_Rti_16",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 37340,
+      "loopEnd": 10453317
+    },
+    {
+      "id": 559,
+      "file": "music/ex2/BGM_EX2_Rti_17",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 209610,
+      "loopEnd": 3554602
+    },
+    {
+      "id": 560,
+      "file": "music/ex2/BGM_EX2_Rti_18",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 207872,
+      "loopEnd": 858731
+    },
+    {
+      "id": 561,
+      "file": "music/ex2/BGM_EX2_Event_15",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 709686,
+      "loopEnd": 6544056
+    },
+    {
+      "id": 562,
+      "file": "music/ex2/BGM_EX2_Event_16",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 697967,
+      "loopEnd": 6532809
+    },
+    {
+      "id": 563,
+      "file": "music/ex2/BGM_EX2_Event_17",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 564,
+      "file": "music/ffxiv/BGM_Ride_NIKU",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2645369,
+      "loopEnd": 6475758
+    },
+    {
+      "id": 565,
+      "file": "music/ffxiv/BGM_Ride_Abare",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1032725,
+      "loopEnd": 5653905
+    },
+    {
+      "id": 566,
+      "file": "music/ffxiv/BGM_Town_K_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 688897,
+      "loopEnd": 13220353
+    },
+    {
+      "id": 567,
+      "file": "music/ffxiv/BGM_Town_K_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 402655,
+      "loopEnd": 6193899
+    },
+    {
+      "id": 568,
+      "file": "music/ffxiv/BGM_Field_G_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150972,
+      "loopEnd": 3735869
+    },
+    {
+      "id": 569,
+      "file": "music/ex2/BGM_EX2_Ban_22",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 91600,
+      "loopEnd": 2864553
+    },
+    {
+      "id": 570,
+      "file": "music/ffxiv/BGM_Ride_Mikoshi",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 222927,
+      "loopEnd": 1634142
+    },
+    {
+      "id": 571,
+      "file": "music/ex2/BGM_EX2_Event_18",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 332830,
+      "loopEnd": 5788499
+    },
+    {
+      "id": 572,
+      "file": "music/ex2/BGM_EX2_Event_24",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 547801,
+      "loopEnd": 2046901
+    },
+    {
+      "id": 573,
+      "file": "music/ex2/BGM_EX2_Event_31",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 417742,
+      "loopEnd": 1833394
+    },
+    {
+      "id": 574,
+      "file": "music/ex2/BGM_EX2_Event_32",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 235643,
+      "loopEnd": 7155987
+    },
+    {
+      "id": 575,
+      "file": "music/ex2/BGM_EX2_Event_33",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 576,
+      "file": "music/ex2/BGM_EX2_Event_34",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1639007,
+      "loopEnd": 3860485
+    },
+    {
+      "id": 577,
+      "file": "music/ex2/BGM_EX2_Event_35",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 5648,
+      "loopEnd": 3896827
+    },
+    {
+      "id": 578,
+      "file": "music/ex2/BGM_EX2_Event_36",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 149306,
+      "loopEnd": 1558973
+    },
+    {
+      "id": 579,
+      "file": "music/ex2/BGM_EX2_Event_37",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 553653,
+      "loopEnd": 3267364
+    },
+    {
+      "id": 580,
+      "file": "music/ffxiv/BGM_Season_XmasCho",
+      "frequency": 44100,
+      "layers": 2,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 581,
+      "file": "music/ex2/BGM_EX2_Ban_24",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 165006,
+      "loopEnd": 2811005
+    },
+    {
+      "id": 582,
+      "file": "music/ex2/BGM_EX2_Ban_25",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 414477,
+      "loopEnd": 5668127
+    },
+    {
+      "id": 583,
+      "file": "music/ex2/BGM_EX2_Dan_D13",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 268966,
+      "loopEnd": 5560964
+    },
+    {
+      "id": 584,
+      "file": "music/ex2/BGM_EX2_Dan_D14",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 9324724
+    },
+    {
+      "id": 585,
+      "file": "music/ex2/BGM_EX2_alpha_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 270003,
+      "loopEnd": 4503602
+    },
+    {
+      "id": 586,
+      "file": "music/ex2/BGM_EX2_alpha_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1460988,
+      "loopEnd": 6278532
+    },
+    {
+      "id": 587,
+      "file": "music/ex2/BGM_EX2_alpha_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 220161,
+      "loopEnd": 8064770
+    },
+    {
+      "id": 588,
+      "file": "music/ffxiv/BGM_Ride_Suzaku",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 414477,
+      "loopEnd": 5668127
+    },
+    {
+      "id": 589,
+      "file": "music/ffxiv/BGM_Ride_Alpha",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 208205,
+      "loopEnd": 11428122
+    },
+    {
+      "id": 590,
+      "file": "music/ex2/BGM_EX2_Event_38",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 618645,
+      "loopEnd": 2559040
+    },
+    {
+      "id": 591,
+      "file": "music/ex2/BGM_EX2_alpha_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 169810,
+      "loopEnd": 11389728
+    },
+    {
+      "id": 592,
+      "file": "music/ffxiv/BGM_Ride_Bike",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1340798,
+      "loopEnd": 4935360
+    },
+    {
+      "id": 593,
+      "file": "music/ex2/BGM_EX2_Uzune2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 637411,
+      "loopEnd": 8046210
+    },
+    {
+      "id": 604,
+      "file": "music/ffxiv/BGM_Event_BKC01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 605,
+      "file": "music/ffxiv/BGM_Event_BKC02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 5115309,
+      "loopEnd": 10172359
+    },
+    {
+      "id": 606,
+      "file": "music/ffxiv/BGM_Event_BKC03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1444693,
+      "loopEnd": 5452286
+    },
+    {
+      "id": 607,
+      "file": "music/ffxiv/BGM_Event_BKC04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 467896,
+      "loopEnd": 7316443
+    },
+    {
+      "id": 608,
+      "file": "music/ffxiv/BGM_Event_BKC05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 650677,
+      "loopEnd": 5227888
+    },
+    {
+      "id": 609,
+      "file": "music/ffxiv/BGM_Event_BKC06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 7680,
+      "loopEnd": 4749558
+    },
+    {
+      "id": 610,
+      "file": "music/ffxiv/BGM_Event_BKC07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 16436,
+      "loopEnd": 5260256
+    },
+    {
+      "id": 611,
+      "file": "music/ffxiv/BGM_Event_BKC08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 369941,
+      "loopEnd": 4074098
+    },
+    {
+      "id": 612,
+      "file": "music/ffxiv/BGM_Event_BKC09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 5550842,
+      "loopEnd": 12635135
+    },
+    {
+      "id": 613,
+      "file": "music/ffxiv/BGM_Event_BKC10",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1157090,
+      "loopEnd": 6514003
+    },
+    {
+      "id": 614,
+      "file": "music/ffxiv/BGM_Ride_BKC",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 553526,
+      "loopEnd": 4585404
+    },
+    {
+      "id": 615,
+      "file": "music/ex2/BGM_EX2_Rti_19",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 307154,
+      "loopEnd": 3919859
+    },
+    {
+      "id": 616,
+      "file": "music/ex2/BGM_EX2_Rti_20",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 65628,
+      "loopEnd": 1927740
+    },
+    {
+      "id": 617,
+      "file": "music/ex2/BGM_EX2_Rti_21",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 618,
+      "file": "music/ex2/BGM_EX2_Rti_22",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 757269,
+      "loopEnd": 15477745
+    },
+    {
+      "id": 619,
+      "file": "music/ex2/BGM_EX2_Rti_23",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 228235,
+      "loopEnd": 1753166
+    },
+    {
+      "id": 620,
+      "file": "music/ex2/BGM_EX2_Rti_24",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 248573,
+      "loopEnd": 2951497
+    },
+    {
+      "id": 621,
+      "file": "music/ex2/BGM_EX2_Rti_25",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 258241,
+      "loopEnd": 3814508
+    },
+    {
+      "id": 622,
+      "file": "music/ex2/BGM_EX2_Rti_26",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 828020,
+      "loopEnd": 4671423
+    },
+    {
+      "id": 623,
+      "file": "music/ex2/BGM_EX2_Rti_27",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 119160,
+      "loopEnd": 5232739
+    },
+    {
+      "id": 624,
+      "file": "music/ex2/BGM_EX2_Rti_28",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 290751,
+      "loopEnd": 3748167
+    },
+    {
+      "id": 625,
+      "file": "music/ex2/BGM_EX2_Rti_29",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 464552,
+      "loopEnd": 5139887
+    },
+    {
+      "id": 626,
+      "file": "music/ex2/BGM_EX2_Rti_30",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1020187,
+      "loopEnd": 5254871
+    },
+    {
+      "id": 627,
+      "file": "music/ex2/BGM_EX2_Rti_32",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 94811,
+      "loopEnd": 3965506
+    },
+    {
+      "id": 628,
+      "file": "music/ex2/BGM_EX2_Rti_33",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 24069,
+      "loopEnd": 8456724
+    },
+    {
+      "id": 629,
+      "file": "music/ex2/BGM_EX2_Rti_34",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 686162,
+      "loopEnd": 2482669
+    },
+    {
+      "id": 630,
+      "file": "music/ffxiv/BGM_AOZ_Battle01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3890315,
+      "loopEnd": 7107893
+    },
+    {
+      "id": 631,
+      "file": "music/ffxiv/BGM_AOZ_Battle02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 819061,
+      "loopEnd": 5934660
+    },
+    {
+      "id": 632,
+      "file": "music/ex2/BGM_EX2_EU_Dungeon",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 242228,
+      "loopEnd": 14954233
+    },
+    {
+      "id": 633,
+      "file": "music/ex2/BGM_EX2_EU_Boss",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 222176,
+      "loopEnd": 4720451
+    },
+    {
+      "id": 634,
+      "file": "music/ex2/BGM_EX2_EU_LB",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 255548,
+      "loopEnd": 4947487
+    },
+    {
+      "id": 635,
+      "file": "music/ffxiv/BGM_Ride_Seiryu",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 143283,
+      "loopEnd": 8046003
+    },
+    {
+      "id": 636,
+      "file": "music/ffxiv/BGM_Ride_Kyubi",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1116963,
+      "loopEnd": 2793637
+    },
+    {
+      "id": 637,
+      "file": "music/ffxiv/BGM_Ride_Kgreen",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 589265,
+      "loopEnd": 6615705
+    },
+    {
+      "id": 638,
+      "file": "music/ffxiv/BGM_Ride_Kyellow",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 155512,
+      "loopEnd": 4077901
+    },
+    {
+      "id": 639,
+      "file": "music/ex2/BGM_EX2_Dan_D15",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1005723,
+      "loopEnd": 7105873
+    },
+    {
+      "id": 640,
+      "file": "music/ex2/BGM_EX2_Ban_26",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 286650,
+      "loopEnd": 8189368
+    },
+    {
+      "id": 641,
+      "file": "music/ffxiv/BGM_EMJ",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 266338,
+      "loopEnd": 4634292
+    },
+    {
+      "id": 642,
+      "file": "music/ffxiv/BGM_RideShooting_Win",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 386392,
+      "loopEnd": 1013591
+    },
+    {
+      "id": 643,
+      "file": "music/ffxiv/BGM_RideShooting_Lose",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 386392,
+      "loopEnd": 1013591
+    },
+    {
+      "id": 644,
+      "file": "music/ffxiv/BGM_RideShooting",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 258105,
+      "loopEnd": 3739684
+    },
+    {
+      "id": 645,
+      "file": "music/ex2/BGM_EX2_EndCredit02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 24335339,
+      "loopEnd": 31019936
+    },
+    {
+      "id": 646,
+      "file": "music/ex3/BGM_EX3_Event_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 11546623
+    },
+    {
+      "id": 647,
+      "file": "music/ex3/BGM_EX3_Event_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 239747,
+      "loopEnd": 4269922
+    },
+    {
+      "id": 648,
+      "file": "music/ex3/BGM_EX3_Event_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 201830,
+      "loopEnd": 4460931
+    },
+    {
+      "id": 649,
+      "file": "music/ex3/BGM_EX3_Event_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 305261,
+      "loopEnd": 4558115
+    },
+    {
+      "id": 650,
+      "file": "music/ex3/BGM_EX3_Event_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 558067,
+      "loopEnd": 3871317
+    },
+    {
+      "id": 651,
+      "file": "music/ex3/BGM_EX3_Event_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 168197,
+      "loopEnd": 5893973
+    },
+    {
+      "id": 652,
+      "file": "music/ex3/BGM_EX3_Event_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 380443,
+      "loopEnd": 3651675
+    },
+    {
+      "id": 653,
+      "file": "music/ex3/BGM_EX3_Event_08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 220125,
+      "loopEnd": 5617975
+    },
+    {
+      "id": 654,
+      "file": "music/ex3/BGM_EX3_Event_09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1882288,
+      "loopEnd": 4636443
+    },
+    {
+      "id": 655,
+      "file": "music/ex3/BGM_EX3_Event_10",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1910534,
+      "loopEnd": 4663692
+    },
+    {
+      "id": 656,
+      "file": "music/ex3/BGM_EX3_Event_12",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 877878,
+      "loopEnd": 4624613
+    },
+    {
+      "id": 657,
+      "file": "music/ex3/BGM_EX3_Event_13",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 658,
+      "file": "music/ex3/BGM_EX3_Event_14",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 132884,
+      "loopEnd": 955143
+    },
+    {
+      "id": 659,
+      "file": "music/ex3/BGM_EX3_Town_C_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 283694,
+      "loopEnd": 6931788
+    },
+    {
+      "id": 660,
+      "file": "music/ex3/BGM_EX3_Town_C_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 140514,
+      "loopEnd": 11389047
+    },
+    {
+      "id": 661,
+      "file": "music/ex3/BGM_EX3_Town_Y_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 664975,
+      "loopEnd": 4537165
+    },
+    {
+      "id": 662,
+      "file": "music/ex3/BGM_EX3_Town_Y_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150383,
+      "loopEnd": 6387382
+    },
+    {
+      "id": 663,
+      "file": "music/ex3/BGM_EX3_Field_Lak_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 664,
+      "file": "music/ex3/BGM_EX3_Field_Lak_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 665,
+      "file": "music/ex3/BGM_EX3_Field_Kor_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 666,
+      "file": "music/ex3/BGM_EX3_Field_Kor_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 667,
+      "file": "music/ex3/BGM_EX3_Field_Ama_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 668,
+      "file": "music/ex3/BGM_EX3_Field_Ama_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 669,
+      "file": "music/ex3/BGM_EX3_Field_Ilm_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 670,
+      "file": "music/ex3/BGM_EX3_Field_Ilm_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 671,
+      "file": "music/ex3/BGM_EX3_Field_Rak_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 672,
+      "file": "music/ex3/BGM_EX3_Field_Rak_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 673,
+      "file": "music/ex3/BGM_EX3_Field_Tem_Day",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 171235,
+      "loopEnd": 8638375
+    },
+    {
+      "id": 674,
+      "file": "music/ex3/BGM_EX3_Field_Tem_Night",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 542941,
+      "loopEnd": 7056171
+    },
+    {
+      "id": 675,
+      "file": "music/ex3/BGM_EX3_Field_Safe_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 676,
+      "file": "music/ex3/BGM_EX3_Field_Safe_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 163517,
+      "loopEnd": 6003795
+    },
+    {
+      "id": 677,
+      "file": "music/ex3/BGM_EX3_Field_Lak_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 109448,
+      "loopEnd": 5754248
+    },
+    {
+      "id": 678,
+      "file": "music/ex3/BGM_EX3_Field_Kor_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 109448,
+      "loopEnd": 5754248
+    },
+    {
+      "id": 679,
+      "file": "music/ex3/BGM_EX3_Field_Ama_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 109448,
+      "loopEnd": 5754248
+    },
+    {
+      "id": 680,
+      "file": "music/ex3/BGM_EX3_Field_Ilm_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 109448,
+      "loopEnd": 5754248
+    },
+    {
+      "id": 681,
+      "file": "music/ex3/BGM_EX3_Field_Rak_Battle",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 109448,
+      "loopEnd": 5754248
+    },
+    {
+      "id": 683,
+      "file": "music/ex3/BGM_EX3_Ban_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1766843,
+      "loopEnd": 7411636
+    },
+    {
+      "id": 684,
+      "file": "music/ex3/BGM_EX3_Ban_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 511708,
+      "loopEnd": 9311885
+    },
+    {
+      "id": 685,
+      "file": "music/ex3/BGM_EX3_Ban_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 606148,
+      "loopEnd": 10513236
+    },
+    {
+      "id": 686,
+      "file": "music/ex3/BGM_EX3_Ban_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1199724,
+      "loopEnd": 6895566
+    },
+    {
+      "id": 687,
+      "file": "music/ex3/BGM_EX3_Dan_D01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 85727,
+      "loopEnd": 5297539
+    },
+    {
+      "id": 688,
+      "file": "music/ex3/BGM_EX3_Dan_D02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 320822,
+      "loopEnd": 5612895
+    },
+    {
+      "id": 689,
+      "file": "music/ex3/BGM_EX3_Dan_D03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 163361,
+      "loopEnd": 5243681
+    },
+    {
+      "id": 690,
+      "file": "music/ex3/BGM_EX3_Dan_D04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 342565,
+      "loopEnd": 7638883
+    },
+    {
+      "id": 691,
+      "file": "music/ex3/BGM_EX3_Dan_D05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 932583,
+      "loopEnd": 8312452
+    },
+    {
+      "id": 692,
+      "file": "music/ex3/BGM_EX3_Dan_D06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 131613,
+      "loopEnd": 5653796
+    },
+    {
+      "id": 693,
+      "file": "music/ex3/BGM_EX3_Dan_D07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1354002,
+      "loopEnd": 5058308
+    },
+    {
+      "id": 694,
+      "file": "music/ex3/BGM_EX3_Dan_D08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 236763,
+      "loopEnd": 6026832
+    },
+    {
+      "id": 695,
+      "file": "music/ex3/BGM_EX3_Boss_Battle01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 135056,
+      "loopEnd": 6435054
+    },
+    {
+      "id": 696,
+      "file": "music/ex3/BGM_EX3_Raid_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 399376,
+      "loopEnd": 3773022
+    },
+    {
+      "id": 697,
+      "file": "music/ex3/BGM_EX3_Raid_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 367611,
+      "loopEnd": 9893308
+    },
+    {
+      "id": 698,
+      "file": "music/ex3/BGM_EX3_Raid_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 132490,
+      "loopEnd": 9525789
+    },
+    {
+      "id": 699,
+      "file": "music/ex3/BGM_EX3_Mount01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 243412,
+      "loopEnd": 5427206
+    },
+    {
+      "id": 700,
+      "file": "music/ffxiv/BGM_Ride_Titania",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1767252,
+      "loopEnd": 7412042
+    },
+    {
+      "id": 701,
+      "file": "music/ffxiv/BGM_Ride_Innocence",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 511708,
+      "loopEnd": 9311885
+    },
+    {
+      "id": 702,
+      "file": "music/ffxiv/BGM_Ride_Eden",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 132490,
+      "loopEnd": 9525789
+    },
+    {
+      "id": 703,
+      "file": "music/ffxiv/BGM_Ride_GS01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1415885,
+      "loopEnd": 5981533
+    },
+    {
+      "id": 704,
+      "file": "music/ex3/BGM_EX3_System_Title",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1288471,
+      "loopEnd": 4339712
+    },
+    {
+      "id": 705,
+      "file": "music/ex3/BGM_EX3_EndCredit01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 49693228,
+      "loopEnd": 56341287
+    },
+    {
+      "id": 706,
+      "file": "music/ex3/BGM_EX3_Boss_Battle02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 743268,
+      "loopEnd": 10857336
+    },
+    {
+      "id": 707,
+      "file": "music/ex3/BGM_EX3_Event_15",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 313043,
+      "loopEnd": 3071440
+    },
+    {
+      "id": 708,
+      "file": "music/ex3/BGM_EX3_Event_16",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 4331277,
+      "loopEnd": 6559486
+    },
+    {
+      "id": 709,
+      "file": "music/ex3/BGM_EX3_Event_17",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 11389089
+    },
+    {
+      "id": 710,
+      "file": "music/ex3/BGM_EX3_Event_18",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 226800,
+      "loopEnd": 7106399
+    },
+    {
+      "id": 711,
+      "file": "music/ex3/BGM_EX3_Town_Y_Day2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 153403,
+      "loopEnd": 4895846
+    },
+    {
+      "id": 712,
+      "file": "music/ex3/BGM_EX3_Field_Safe_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 714,
+      "file": "music/ex3/BGM_EX3_Event_19",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 265280,
+      "loopEnd": 4498879
+    },
+    {
+      "id": 715,
+      "file": "music/ffxiv/BGM_Ride_Amaro",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 243412,
+      "loopEnd": 5427206
+    },
+    {
+      "id": 716,
+      "file": "music/ex3/BGM_EX3_Field_Kor_Day2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 353175,
+      "loopEnd": 9189262
+    },
+    {
+      "id": 717,
+      "file": "music/ex3/BGM_EX3_Raid_04",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 284483,
+      "loopEnd": 9457284
+    },
+    {
+      "id": 718,
+      "file": "music/ffxiv/BGM_Season_XmasCho_02",
+      "frequency": 44100,
+      "layers": 2,
+      "loopStart": 0,
+      "loopEnd": 0
+    },
+    {
+      "id": 719,
+      "file": "music/ex3/BGM_EX3_BanFort_Fairy_Good",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 395392,
+      "loopEnd": 5539278
+    },
+    {
+      "id": 720,
+      "file": "music/ex1/BGM_EX1_FATE_Hukko",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 604460,
+      "loopEnd": 6084118
+    },
+    {
+      "id": 721,
+      "file": "music/ex3/BGM_EX3_Town_Y_Bar",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 356476,
+      "loopEnd": 5295210
+    },
+    {
+      "id": 722,
+      "file": "music/ffxiv/BGM_PvP_Battle_02",
+      "frequency": 44100,
+      "layers": 3,
+      "loopStart": 136574,
+      "loopEnd": 4779913
+    },
+    {
+      "id": 723,
+      "file": "music/ex3/BGM_EX3_Ban_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 197428,
+      "loopEnd": 9163780
+    },
+    {
+      "id": 724,
+      "file": "music/ex3/BGM_EX3_Ban_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 396997,
+      "loopEnd": 5386599
+    },
+    {
+      "id": 725,
+      "file": "music/ex3/BGM_EX3_Ban_07",
+      "frequency": 44100,
+      "layers": 2,
+      "loopStart": 455231,
+      "loopEnd": 8619099
+    },
+    {
+      "id": 726,
+      "file": "music/ex3/BGM_EX3_Ban_08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 831657,
+      "loopEnd": 9960550
+    },
+    {
+      "id": 727,
+      "file": "music/ex3/BGM_EX3_Dan_D09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 98748,
+      "loopEnd": 5526439
+    },
+    {
+      "id": 728,
+      "file": "music/ffxiv/BGM_Ride_Hades",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1199724,
+      "loopEnd": 6895566
+    },
+    {
+      "id": 729,
+      "file": "music/ffxiv/BGM_Ride_Frontline",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 136574,
+      "loopEnd": 4779913
+    },
+    {
+      "id": 730,
+      "file": "music/ffxiv/BGM_Ride_Feast",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 530097,
+      "loopEnd": 7938896
+    },
+    {
+      "id": 731,
+      "file": "music/ffxiv/BGM_Ride_AOZ",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 819061,
+      "loopEnd": 5934660
+    },
+    {
+      "id": 732,
+      "file": "music/ex3/BGM_EX3_Ytc_01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 82671,
+      "loopEnd": 3106670
+    },
+    {
+      "id": 733,
+      "file": "music/ex3/BGM_EX3_Ytc_02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 320686,
+      "loopEnd": 5401009
+    },
+    {
+      "id": 734,
+      "file": "music/ex3/BGM_EX3_Ytc_03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 762167,
+      "loopEnd": 5227288
+    },
+    {
+      "id": 736,
+      "file": "music/ex3/BGM_EX3_Ytc_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 5661,
+      "loopEnd": 7261636
+    },
+    {
+      "id": 737,
+      "file": "music/ex3/BGM_EX3_Ytc_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2957980,
+      "loopEnd": 10307622
+    },
+    {
+      "id": 738,
+      "file": "music/ex3/BGM_EX3_Ytc_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1280383,
+      "loopEnd": 7239924
+    },
+    {
+      "id": 739,
+      "file": "music/ex3/BGM_EX3_Ytc_08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 392453,
+      "loopEnd": 6823236
+    },
+    {
+      "id": 740,
+      "file": "music/ex3/BGM_EX3_Ytc_09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 588042,
+      "loopEnd": 5945376
+    },
+    {
+      "id": 741,
+      "file": "music/ex3/BGM_EX3_Ytc_10",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 3650564,
+      "loopEnd": 7814312
+    },
+    {
+      "id": 742,
+      "file": "music/ex3/BGM_EX3_Event_20",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 150789,
+      "loopEnd": 5966087
+    },
+    {
+      "id": 743,
+      "file": "music/ex3/BGM_EX3_BanFort_kkrn_Good",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 169314,
+      "loopEnd": 5517018
+    },
+    {
+      "id": 745,
+      "file": "music/ffxiv/BGM_Minigame_Egghunt2",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 486037,
+      "loopEnd": 2905297
+    },
+    {
+      "id": 746,
+      "file": "music/ex3/BGM_EX3_Ban_09",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1066946,
+      "loopEnd": 9931137
+    },
+    {
+      "id": 748,
+      "file": "music/ex3/BGM_EX3_Boss_Battle03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1295021,
+      "loopEnd": 13895629
+    },
+    {
+      "id": 749,
+      "file": "music/ex3/BGM_EX3_Dan_D10",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2696698,
+      "loopEnd": 7827578
+    },
+    {
+      "id": 750,
+      "file": "music/ex3/BGM_EX3_Raid_05",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 661502,
+      "loopEnd": 7620847
+    },
+    {
+      "id": 751,
+      "file": "music/ex3/BGM_EX3_Raid_06",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1883231,
+      "loopEnd": 9905955
+    },
+    {
+      "id": 752,
+      "file": "music/ex3/BGM_EX3_Raid_07",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 985868,
+      "loopEnd": 14175160
+    },
+    {
+      "id": 753,
+      "file": "music/ffxiv/BGM_Ride_Ruby",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1066946,
+      "loopEnd": 9931137
+    },
+    {
+      "id": 754,
+      "file": "music/ffxiv/BGM_Ride_Eden02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 661502,
+      "loopEnd": 7620847
+    },
+    {
+      "id": 755,
+      "file": "music/ex3/BGM_EX3_Ban_10",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 1587829,
+      "loopEnd": 8012467
+    },
+    {
+      "id": 756,
+      "file": "music/ffxiv/BGM_IKD01",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2042368,
+      "loopEnd": 8068808
+    },
+    {
+      "id": 757,
+      "file": "music/ffxiv/BGM_IKD02",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2031360,
+      "loopEnd": 9087358
+    },
+    {
+      "id": 758,
+      "file": "music/ffxiv/BGM_IKD03",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 2051610,
+      "loopEnd": 7343617
+    },
+    {
+      "id": 759,
+      "file": "music/ex3/BGM_EX3_Raid_08",
+      "frequency": 44100,
+      "layers": 1,
+      "loopStart": 204246,
+      "loopEnd": 3026645
+    }
+  ]
+}
