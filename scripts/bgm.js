@@ -79,5 +79,5 @@ function findTag(tags, name, defaultValue = 0) {
     });
   }
 
-  await fs.writeFile(outputFile, JSON.stringify({ "bgm": output }, null, '  '));
+  await fs.writeFile(outputFile, JSON.stringify({ "bgm": output }));
 })();
